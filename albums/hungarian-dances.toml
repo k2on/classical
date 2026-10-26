@@ -1,0 +1,9 @@
+name = "Hungarian Dances"
+
+[[track]]
+title = "Hungarian Dance No. 5"
+composer = "Johannes Brahms"
+track = 5
+catalogue = "WoO 1"
+ms = 175000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/Brahms_nikisch_hd5.ogg/Brahms_nikisch_hd5.ogg.mp3"

@@ -1,0 +1,9 @@
+name = "Bagatelles"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/F%C3%BCr_Elise_-_Beethoven-Haus_Bonn_Draft_%28BH_116%2C_1810%29_-_page_1.png/960px-F%C3%BCr_Elise_-_Beethoven-Haus_Bonn_Draft_%28BH_116%2C_1810%29_-_page_1.png"
+
+[[track]]
+title = "Für Elise"
+composer = "Ludwig van Beethoven"
+catalogue = "WoO 59"
+ms = 177000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/FurElise.ogg/FurElise.ogg.mp3"

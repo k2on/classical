@@ -1,0 +1,8 @@
+name = "Organ Works"
+
+[[track]]
+title = "Toccata and Fugue in D minor, BWV 565"
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 565"
+ms = 514000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/Toccata_et_Fugue_BWV565.ogg/Toccata_et_Fugue_BWV565.ogg.mp3"

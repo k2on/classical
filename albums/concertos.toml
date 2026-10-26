@@ -1,0 +1,175 @@
+name = "Concertos"
+
+[[track]]
+title = "I. Allegro (ma molto moderato)"
+composer = "Antonio Vivaldi"
+part = "Bassoon Concerto in A minor, RV 498"
+track = 1
+catalogue = "RV 498"
+performer = "The Modena Chamber Orchestra"
+bpm = 100
+ms = 275724
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Bassoon_Concerto_in_A_minor%2C_RV_498_-_I._Allegro_%28ma_molto_moderato%29.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Bassoon_Concerto_in_A_minor%2C_RV_498_-_I._Allegro_%28ma_molto_moderato%29.ogg.mp3"
+
+[[track]]
+title = "II. Larghetto"
+composer = "Antonio Vivaldi"
+part = "Bassoon Concerto in A minor, RV 498"
+track = 2
+catalogue = "RV 498"
+performer = "The Modena Chamber Orchestra"
+bpm = 63
+ms = 231624
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Bassoon_Concerto_in_A_minor%2C_RV_498_-_II._Larghetto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Bassoon_Concerto_in_A_minor%2C_RV_498_-_II._Larghetto.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Bassoon Concerto in A minor, RV 498"
+track = 3
+catalogue = "RV 498"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 187524
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a2/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Bassoon_Concerto_in_A_minor%2C_RV_498_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Bassoon_Concerto_in_A_minor%2C_RV_498_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto for 2 Mandolins in G major, RV 532"
+track = 4
+catalogue = "RV 532"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 302558
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Mandolins_in_G_major%2C_RV_532_-_I._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Mandolins_in_G_major%2C_RV_532_-_I._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Andante"
+composer = "Antonio Vivaldi"
+part = "Concerto for 2 Mandolins in G major, RV 532"
+track = 5
+catalogue = "RV 532"
+performer = "The Modena Chamber Orchestra"
+bpm = 92
+ms = 183239
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Mandolins_in_G_major%2C_RV_532_-_II._Andante.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Mandolins_in_G_major%2C_RV_532_-_II._Andante.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto for 2 Mandolins in G major, RV 532"
+track = 6
+catalogue = "RV 532"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 260370
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8c/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Mandolins_in_G_major%2C_RV_532_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Mandolins_in_G_major%2C_RV_532_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto for 2 Oboes in A minor, RV 536"
+track = 7
+catalogue = "RV 536"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 157961
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Oboes_in_A_minor%2C_RV_536_-_I._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Oboes_in_A_minor%2C_RV_536_-_I._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Largo"
+composer = "Antonio Vivaldi"
+part = "Concerto for 2 Oboes in A minor, RV 536"
+track = 8
+catalogue = "RV 536"
+performer = "The Modena Chamber Orchestra"
+bpm = 50
+ms = 132469
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0a/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Oboes_in_A_minor%2C_RV_536_-_II._Largo.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Oboes_in_A_minor%2C_RV_536_-_II._Largo.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto for 2 Oboes in A minor, RV 536"
+track = 9
+catalogue = "RV 536"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 107887
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Oboes_in_A_minor%2C_RV_536_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_for_2_Oboes_in_A_minor%2C_RV_536_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro molto"
+composer = "Antonio Vivaldi"
+part = "Concerto in C major, RV 558"
+track = 10
+catalogue = "RV 558"
+performer = "The Modena Chamber Orchestra"
+bpm = 152
+ms = 334207
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_in_C_major%2C_RV_558_-_I._Allegro_molto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_in_C_major%2C_RV_558_-_I._Allegro_molto.ogg.mp3"
+
+[[track]]
+title = "II. Andante molto"
+composer = "Antonio Vivaldi"
+part = "Concerto in C major, RV 558"
+track = 11
+catalogue = "RV 558"
+performer = "The Modena Chamber Orchestra"
+bpm = 84
+ms = 178429
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_in_C_major%2C_RV_558_-_II._Andante_molto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_in_C_major%2C_RV_558_-_II._Andante_molto.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto in C major, RV 558"
+track = 12
+catalogue = "RV 558"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 182801
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_in_C_major%2C_RV_558_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Concerto_in_C_major%2C_RV_558_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 10 in B minor, RV 580"
+track = 13
+catalogue = "RV 580"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 251965
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/64/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_L%27estro_armonico%2C_Concerto_No._10%2C_RV_580_-_I._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_L%27estro_armonico%2C_Concerto_No._10%2C_RV_580_-_I._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Largo-Larghetto"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 10 in B minor, RV 580"
+track = 14
+catalogue = "RV 580"
+performer = "The Modena Chamber Orchestra"
+bpm = 50
+ms = 199613
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_L%27estro_armonico%2C_Concerto_No._10%2C_RV_580_-_II._Largo-Larghetto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_L%27estro_armonico%2C_Concerto_No._10%2C_RV_580_-_II._Largo-Larghetto.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 10 in B minor, RV 580"
+track = 15
+catalogue = "RV 580"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 207523
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_L%27estro_armonico%2C_Concerto_No._10%2C_RV_580_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_L%27estro_armonico%2C_Concerto_No._10%2C_RV_580_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "Mandolin Concerto in C major"
+composer = "Antonio Vivaldi"
+track = 16
+catalogue = "RV 425"
+performer = "The Milan Baroque Soloists"
+ms = 499931
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Antonio_Vivaldi%2C_Mandolin_Concerto_in_C_major%2C_RV_425.ogg/Antonio_Vivaldi%2C_Mandolin_Concerto_in_C_major%2C_RV_425.ogg.mp3"

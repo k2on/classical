@@ -1,0 +1,138 @@
+[[credit]]
+performer = "Advent Chamber Orchestra"
+name = "Advent Chamber Orchestra"
+role = "orchestra"
+pos = 1
+
+[[credit]]
+performer = "Advent Chamber Orchestra, David Parry, Roxana Pavel Goldstein"
+name = "Advent Chamber Orchestra"
+role = "orchestra"
+pos = 1
+
+[[credit]]
+performer = "Advent Chamber Orchestra, David Parry, Roxana Pavel Goldstein"
+name = "David Parry"
+role = "soloist"
+instrument = "Violin"
+pos = 2
+
+[[credit]]
+performer = "Advent Chamber Orchestra, David Parry, Roxana Pavel Goldstein"
+name = "Roxana Pavel Goldstein"
+role = "soloist"
+instrument = "Violin"
+pos = 3
+
+[[credit]]
+performer = "Advent Chamber Orchestra, Jacques Israelievitch, Roxana Pavel Goldstein"
+name = "Advent Chamber Orchestra"
+role = "orchestra"
+pos = 1
+
+[[credit]]
+performer = "Advent Chamber Orchestra, Jacques Israelievitch, Roxana Pavel Goldstein"
+name = "Jacques Israelievitch"
+role = "soloist"
+instrument = "Violin"
+pos = 2
+
+[[credit]]
+performer = "Advent Chamber Orchestra, Jacques Israelievitch, Roxana Pavel Goldstein"
+name = "Roxana Pavel Goldstein"
+role = "soloist"
+instrument = "Violin"
+pos = 3
+
+[[credit]]
+performer = "Advent Chamber Orchestra, Stephen Balderston"
+name = "Advent Chamber Orchestra"
+role = "orchestra"
+pos = 1
+
+[[credit]]
+performer = "Advent Chamber Orchestra, Stephen Balderston"
+name = "Stephen Balderston"
+role = "soloist"
+instrument = "Cello"
+pos = 2
+
+[[credit]]
+performer = "Associazione Culturale Panharmonikon"
+name = "Associazione Culturale Panharmonikon"
+role = "ensemble"
+pos = 1
+
+[[credit]]
+performer = "Busch Chamber Players"
+name = "Busch Chamber Players"
+role = "ensemble"
+pos = 1
+
+[[credit]]
+performer = "Escola Superior de Música de Catalunya"
+name = "Escola Superior de Música de Catalunya"
+role = "ensemble"
+pos = 1
+
+[[credit]]
+performer = "Kevin MacLeod"
+name = "Kevin MacLeod"
+role = "artist"
+pos = 1
+
+[[credit]]
+performer = "Kimiko Ishizaka"
+name = "Kimiko Ishizaka"
+role = "soloist"
+instrument = "Piano"
+pos = 1
+
+[[credit]]
+performer = "London Symphony Orchestra, Hermann Scherchen"
+name = "London Symphony Orchestra"
+role = "orchestra"
+pos = 1
+
+[[credit]]
+performer = "London Symphony Orchestra, Hermann Scherchen"
+name = "Hermann Scherchen"
+role = "conductor"
+pos = 2
+
+[[credit]]
+performer = "Paul Ayres"
+name = "Paul Ayres"
+role = "soloist"
+pos = 1
+
+[[credit]]
+performer = "The Milan Baroque Soloists"
+name = "The Milan Baroque Soloists"
+role = "ensemble"
+pos = 1
+
+[[credit]]
+performer = "The Modena Chamber Orchestra"
+name = "The Modena Chamber Orchestra"
+role = "orchestra"
+pos = 1
+
+[[credit]]
+performer = "United States Marine Band"
+name = "United States Marine Band"
+role = "ensemble"
+pos = 1
+
+[[credit]]
+performer = "Vince DiMartino and the Lexington Bach Choir Orchestra"
+name = "Vince DiMartino"
+role = "soloist"
+instrument = "Trumpet"
+pos = 1
+
+[[credit]]
+performer = "Vince DiMartino and the Lexington Bach Choir Orchestra"
+name = "Lexington Bach Choir Orchestra"
+role = "ensemble"
+pos = 2

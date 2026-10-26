@@ -1,0 +1,91 @@
+name = "Magnificat"
+
+[[track]]
+title = "Magnificat"
+composer = "Antonio Vivaldi"
+track = 1
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 65875
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Vivaldi_-_Magnificat_01_Magnificat.oga/Vivaldi_-_Magnificat_01_Magnificat.oga.mp3"
+
+[[track]]
+title = "Et exultavit"
+composer = "Antonio Vivaldi"
+track = 2
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 136625
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/02_-_Et_Exultavit.ogg/02_-_Et_Exultavit.ogg.mp3"
+
+[[track]]
+title = "Et misericordia"
+composer = "Antonio Vivaldi"
+track = 3
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 150563
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/03_-_Et_Misericordia.ogg/03_-_Et_Misericordia.ogg.mp3"
+
+[[track]]
+title = "Fecit potentiam"
+composer = "Antonio Vivaldi"
+track = 4
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 29500
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b2/04_-_Fecit_Potentiam.ogg/04_-_Fecit_Potentiam.ogg.mp3"
+
+[[track]]
+title = "Deposuit potentes"
+composer = "Antonio Vivaldi"
+track = 5
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 55063
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/05_-_Deposuit_Potentes.ogg/05_-_Deposuit_Potentes.ogg.mp3"
+
+[[track]]
+title = "Esurientes"
+composer = "Antonio Vivaldi"
+track = 6
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 100188
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/06_-_Esurientes.ogg/06_-_Esurientes.ogg.mp3"
+
+[[track]]
+title = "Suscepit Israel"
+composer = "Antonio Vivaldi"
+track = 7
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 46875
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/07_-_Suscepit_Israel.ogg/07_-_Suscepit_Israel.ogg.mp3"
+
+[[track]]
+title = "Sicut locutus est"
+composer = "Antonio Vivaldi"
+track = 8
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 120375
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/08_-_Sicut_Locutus.ogg/08_-_Sicut_Locutus.ogg.mp3"
+
+[[track]]
+title = "Gloria Patri"
+composer = "Antonio Vivaldi"
+track = 9
+catalogue = "RV 610"
+performer = "Associazione Culturale Panharmonikon"
+licence = "CC BY-SA 3.0"
+ms = 133688
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/09_-_Gloria.ogg/09_-_Gloria.ogg.mp3"

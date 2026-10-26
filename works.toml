@@ -1,0 +1,584 @@
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 269"
+title = "The Four Seasons, Concerto No. 1 \"Spring\""
+form = "Concerto"
+period = "Baroque"
+key_sig = "E Major"
+composed = 1725
+description = "Spring, the first of the four violin concertos Vivaldi published in 1725 as part of Il cimento dell'armonia e dell'inventione, each set to a sonnet: birdsong, a murmuring brook, a sleeping goatherd and his barking dog."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 315"
+title = "The Four Seasons, Concerto No. 2 \"Summer\""
+form = "Concerto"
+period = "Baroque"
+key_sig = "G Minor"
+composed = 1725
+description = "Summer, the second of The Four Seasons: heat-weary stillness, the cuckoo and turtledove, swarming flies, and a hailstorm that flattens the crops."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 293"
+title = "The Four Seasons, Concerto No. 3 \"Autumn\""
+form = "Concerto"
+period = "Baroque"
+key_sig = "F Major"
+composed = 1725
+description = "Autumn, the third of The Four Seasons: peasants celebrating the harvest with wine and dancing, a drowsy slow movement, and a dawn hunt."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 297"
+title = "The Four Seasons, Concerto No. 4 \"Winter\""
+form = "Concerto"
+period = "Baroque"
+key_sig = "F Minor"
+composed = 1725
+description = "Winter, the last of The Four Seasons: shivering in icy wind and chattering teeth, rain heard from beside the fire, and walking carefully over the ice."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 425"
+title = "Mandolin Concerto in C Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "C Major"
+description = "A short, bright concerto for mandolin and strings, among the best known of the few Vivaldi wrote for the instrument."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 498"
+title = "Bassoon Concerto in A Minor"
+form = "Concerto"
+period = "Baroque"
+key_sig = "A Minor"
+description = "One of the many concertos Vivaldi wrote for bassoon — more than three dozen — giving the instrument agile solo writing rare for its time."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 532"
+title = "Concerto for Two Mandolins in G Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "G Major"
+description = "Vivaldi's concerto for two mandolins, the soloists answering each other over strings, with a gentle, plucked slow movement."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 536"
+title = "Concerto for Two Oboes in A Minor"
+form = "Concerto"
+period = "Baroque"
+key_sig = "A Minor"
+description = "A concerto pairing two oboes as soloists, in Vivaldi's usual fast–slow–fast design."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 558"
+title = "Concerto in C Major for Many Instruments"
+form = "Concerto"
+period = "Baroque"
+key_sig = "C Major"
+composed = 1740
+description = "A concerto for an unusually large group of soloists — recorders, mandolins, theorbos, violins in tromba marina, cello — written for a state visit to the Ospedale della Pietà in 1740."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 580"
+title = "L'estro armonico, Concerto No. 10 in B Minor"
+form = "Concerto"
+period = "Baroque"
+key_sig = "B Minor"
+composed = 1711
+description = "From L'estro armonico, Op. 3 (1711), the set that made Vivaldi famous across Europe: a concerto for four violins that Bach later arranged for four harpsichords."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 522"
+title = "L'estro armonico, Concerto No. 8 in A Minor"
+form = "Concerto"
+period = "Baroque"
+key_sig = "A Minor"
+composed = 1711
+description = "From L'estro armonico, Op. 3: a concerto for two violins that Bach arranged for organ as BWV 593."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 565"
+title = "L'estro armonico, Concerto No. 11 in D Minor"
+form = "Concerto"
+period = "Baroque"
+key_sig = "D Minor"
+composed = 1711
+description = "From L'estro armonico, Op. 3: a concerto for two violins and cello whose first movement leads, after a short Adagio, into a fugue — one of the pieces Bach arranged for organ (BWV 596)."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 413"
+title = "Cello Concerto in G Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "G Major"
+description = "One of Vivaldi's cello concertos, written when the cello was only beginning to be heard as a solo instrument."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 610"
+title = "Magnificat in G Minor"
+form = "Magnificat"
+period = "Baroque"
+key_sig = "G Minor"
+description = "Vivaldi's setting of the Magnificat, the Song of Mary, for choir, soloists and strings, in short contrasting sections."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 807"
+title = "Dixit Dominus in D Major"
+form = "Psalm Setting"
+period = "Baroque"
+key_sig = "D Major"
+description = "A setting of Psalm 110 for soloists, double choir and orchestra, identified as Vivaldi's only in 2005, after it had long been attributed to Baldassare Galuppi."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 169"
+title = "Sinfonia al Santo Sepolcro in B Minor"
+form = "Sinfonia"
+period = "Baroque"
+key_sig = "B Minor"
+description = "A brief, sombre sinfonia \"at the Holy Sepulchre\", meant for Holy Week, built on slow chromatic lines."
+
+[[work]]
+composer = "Antonio Vivaldi"
+catalogue = "RV 130"
+title = "Sonata al Santo Sepolcro in E-Flat Major"
+form = "Sonata"
+period = "Baroque"
+key_sig = "E-Flat Major"
+description = "A companion to the Sinfonia al Santo Sepolcro: a short sonata in the style of a church sonata, slow and grave."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 565"
+title = "Toccata and Fugue in D Minor"
+form = "Toccata and Fugue"
+period = "Baroque"
+key_sig = "D Minor"
+description = "Probably the most famous organ piece ever written: a dramatic toccata around a fugue. Its date — and whether it is Bach's at all — has been debated by scholars."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 846"
+title = "Prelude and Fugue No. 1 in C Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "C Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key. This first prelude, all broken chords, is one of the best-known pieces in the keyboard repertoire."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 847"
+title = "Prelude and Fugue No. 2 in C Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "C Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 848"
+title = "Prelude and Fugue No. 3 in C-Sharp Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "C-Sharp Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 849"
+title = "Prelude and Fugue No. 4 in C-Sharp Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "C-Sharp Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key. Its fugue has five voices."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 850"
+title = "Prelude and Fugue No. 5 in D Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "D Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 851"
+title = "Prelude and Fugue No. 6 in D Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "D Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 852"
+title = "Prelude and Fugue No. 7 in E-Flat Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "E-Flat Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 853"
+title = "Prelude and Fugue No. 8 in E-Flat Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "E-Flat Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 854"
+title = "Prelude and Fugue No. 9 in E Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "E Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 855"
+title = "Prelude and Fugue No. 10 in E Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "E Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key. Its fugue is the only one in two voices."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 856"
+title = "Prelude and Fugue No. 11 in F Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "F Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 857"
+title = "Prelude and Fugue No. 12 in F Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "F Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 858"
+title = "Prelude and Fugue No. 13 in F-Sharp Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "F-Sharp Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 859"
+title = "Prelude and Fugue No. 14 in F-Sharp Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "F-Sharp Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 860"
+title = "Prelude and Fugue No. 15 in G Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "G Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 861"
+title = "Prelude and Fugue No. 16 in G Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "G Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 862"
+title = "Prelude and Fugue No. 17 in A-Flat Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "A-Flat Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 863"
+title = "Prelude and Fugue No. 18 in G-Sharp Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "G-Sharp Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 864"
+title = "Prelude and Fugue No. 19 in A Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "A Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 865"
+title = "Prelude and Fugue No. 20 in A Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "A Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 866"
+title = "Prelude and Fugue No. 21 in B-Flat Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "B-Flat Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 867"
+title = "Prelude and Fugue No. 22 in B-Flat Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "B-Flat Minor"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key. Its fugue has five voices."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 868"
+title = "Prelude and Fugue No. 23 in B Major"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "B Major"
+composed = 1722
+description = "From Book I of The Well-Tempered Clavier (1722), Bach's cycle of a prelude and fugue in every major and minor key."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 869"
+title = "Prelude and Fugue No. 24 in B Minor"
+form = "Prelude and Fugue"
+period = "Baroque"
+key_sig = "B Minor"
+composed = 1722
+description = "The last prelude and fugue of Book I of The Well-Tempered Clavier (1722). Its fugue subject uses all twelve notes of the chromatic scale."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 988"
+title = "Goldberg Variations"
+form = "Variations"
+period = "Baroque"
+key_sig = "G Major"
+composed = 1741
+description = "An aria followed by thirty variations on its bass line, published in 1741. Every third variation is a canon, at intervals growing from the unison to the ninth, and the aria returns at the end."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 1046"
+title = "Brandenburg Concerto No. 1 in F Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "F Major"
+composed = 1721
+description = "The first of the six Brandenburg Concertos, which Bach sent to the Margrave of Brandenburg in 1721, each for a different group of instruments. This one has hunting horns, oboes and a violino piccolo."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 1047"
+title = "Brandenburg Concerto No. 2 in F Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "F Major"
+composed = 1721
+description = "The second Brandenburg Concerto, with a solo group of trumpet, recorder, oboe and violin; its high trumpet part is one of the hardest in the Baroque repertoire."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 1048"
+title = "Brandenburg Concerto No. 3 in G Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "G Major"
+composed = 1721
+description = "The third Brandenburg Concerto, for three groups of three strings — violins, violas and cellos — with only two chords standing in for a slow movement."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 1049"
+title = "Brandenburg Concerto No. 4 in G Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "G Major"
+composed = 1721
+description = "The fourth Brandenburg Concerto, for violin and two recorders (\"echo flutes\") with strings, the violin given dazzling solo passages."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 1050"
+title = "Brandenburg Concerto No. 5 in D Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "D Major"
+composed = 1721
+description = "The fifth Brandenburg Concerto, for flute, violin and harpsichord; its long harpsichord solo in the first movement is often called the first keyboard concerto."
+
+[[work]]
+composer = "Johann Sebastian Bach"
+catalogue = "BWV 1051"
+title = "Brandenburg Concerto No. 6 in B-Flat Major"
+form = "Concerto"
+period = "Baroque"
+key_sig = "B-Flat Major"
+composed = 1721
+description = "The sixth Brandenburg Concerto, for low strings alone — two violas, two violas da gamba, cello and continuo — with no violins at all."
+
+[[work]]
+composer = "George Frideric Handel"
+catalogue = "HWV 56"
+title = "Messiah"
+form = "Oratorio"
+period = "Baroque"
+composed = 1741
+description = "Handel's English oratorio on the life of Christ, to a libretto by Charles Jennens, composed in about three weeks in 1741 and first performed in Dublin in 1742. Its Hallelujah chorus closes Part II."
+
+[[work]]
+composer = "George Frideric Handel"
+catalogue = "HWV 348"
+title = "Water Music Suite No. 1 in F Major"
+form = "Suite"
+period = "Baroque"
+key_sig = "F Major"
+composed = 1717
+description = "The first of the three suites of Water Music, written for George I's barge trip on the Thames in July 1717, played by musicians on a boat alongside."
+
+[[work]]
+composer = "George Frideric Handel"
+catalogue = "HWV 349"
+title = "Water Music Suite No. 2 in D Major"
+form = "Suite"
+period = "Baroque"
+key_sig = "D Major"
+composed = 1717
+description = "The second Water Music suite, with trumpets and horns — music to carry outdoors over the water — including the famous Alla Hornpipe."
+
+[[work]]
+composer = "George Frideric Handel"
+catalogue = "HWV 350"
+title = "Water Music Suite No. 3 in G Major"
+form = "Suite"
+period = "Baroque"
+key_sig = "G Major"
+composed = 1717
+description = "The third Water Music suite, quieter and more intimate, with flute and recorder."
+
+[[work]]
+composer = "George Frideric Handel"
+catalogue = "HWV 351"
+title = "Music for the Royal Fireworks"
+form = "Suite"
+period = "Baroque"
+key_sig = "D Major"
+composed = 1749
+description = "Written for George II's celebration of the Peace of Aix-la-Chapelle in London's Green Park in 1749, for a large wind band. Twelve thousand people came to its public rehearsal."
+
+[[work]]
+composer = "Ludwig van Beethoven"
+catalogue = "WoO 59"
+title = "Für Elise"
+form = "Bagatelle"
+period = "Classical"
+key_sig = "A Minor"
+composed = 1810
+description = "A short piano bagatelle that was not published until 1867, forty years after Beethoven's death. Who \"Elise\" was is still unknown."
+
+[[work]]
+composer = "Frédéric Chopin"
+catalogue = "Op. 23"
+title = "Ballade No. 1 in G Minor"
+form = "Ballade"
+period = "Romantic"
+key_sig = "G Minor"
+composed = 1835
+description = "The first of Chopin's four ballades, completed in about 1835: a single-movement piano narrative that grows from a hesitant opening to a stormy coda."
+
+[[work]]
+composer = "Frédéric Chopin"
+catalogue = "Op. 38"
+title = "Ballade No. 2 in F Major"
+form = "Ballade"
+period = "Romantic"
+key_sig = "F Major"
+composed = 1839
+description = "Chopin's second ballade, dedicated to Robert Schumann, which sets a gentle, rocking theme against sudden furious outbursts."
+
+[[work]]
+composer = "Franz Schubert"
+catalogue = "D. 899"
+title = "Four Impromptus"
+form = "Impromptu"
+period = "Romantic"
+composed = 1827
+description = "Four impromptus for piano, written in 1827, the year before Schubert died; the third, in G-flat major, is a long, singing melody over rippling accompaniment."
+
+[[work]]
+composer = "Johannes Brahms"
+catalogue = "WoO 1"
+title = "Hungarian Dances"
+form = "Dance"
+period = "Romantic"
+description = "Twenty-one lively dances based on Hungarian themes, first for piano four hands, which became some of Brahms's most popular music; No. 5 is the best known."
+
+[[work]]
+composer = "Claude Debussy"
+catalogue = "L. 75"
+title = "Suite bergamasque"
+form = "Suite"
+period = "Romantic"
+composed = 1890
+description = "A piano suite in four movements — Prélude, Menuet, Clair de lune and Passepied — begun around 1890 and published in 1905. Clair de lune takes its name from a Verlaine poem."

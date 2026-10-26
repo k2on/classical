@@ -1,0 +1,9 @@
+name = "Suite bergamasque"
+
+[[track]]
+title = "Clair de lune"
+composer = "Claude Debussy"
+track = 3
+catalogue = "L. 75"
+ms = 304000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/Clair_de_lune_%28Claude_Debussy%29_Suite_bergamasque.ogg/Clair_de_lune_%28Claude_Debussy%29_Suite_bergamasque.ogg.mp3"

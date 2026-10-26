@@ -1,0 +1,109 @@
+name = "String Concertos"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 8 in A minor, RV 522"
+track = 1
+catalogue = "RV 522"
+performer = "Advent Chamber Orchestra, Jacques Israelievitch, Roxana Pavel Goldstein"
+licence = "CC BY-SA 2.0"
+bpm = 138
+ms = 203870
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/Vivaldi_-_Concerto_for_Two_Violins_in_A_minor%2C_Op._3%2C_No._8_-_1._Allegro.ogg/Vivaldi_-_Concerto_for_Two_Violins_in_A_minor%2C_Op._3%2C_No._8_-_1._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Larghetto e spiritoso"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 8 in A minor, RV 522"
+track = 2
+catalogue = "RV 522"
+performer = "Advent Chamber Orchestra, Jacques Israelievitch, Roxana Pavel Goldstein"
+licence = "CC BY-SA 2.0"
+bpm = 63
+ms = 232977
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Vivaldi_-_Concerto_for_Two_Violins_in_A_minor%2C_Op._3%2C_No._8_-_2._Larghetto_e_spiritoso.ogg/Vivaldi_-_Concerto_for_Two_Violins_in_A_minor%2C_Op._3%2C_No._8_-_2._Larghetto_e_spiritoso.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 8 in A minor, RV 522"
+track = 3
+catalogue = "RV 522"
+performer = "Advent Chamber Orchestra, Jacques Israelievitch, Roxana Pavel Goldstein"
+licence = "CC BY-SA 2.0"
+bpm = 138
+ms = 189654
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Vivaldi_-_Concerto_for_Two_Violins_in_A_minor%2C_Op._3%2C_No._8_-_3._Allegro.ogg/Vivaldi_-_Concerto_for_Two_Violins_in_A_minor%2C_Op._3%2C_No._8_-_3._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro – Adagio e spiccato – Allegro"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 11 in D minor, RV 565"
+track = 4
+catalogue = "RV 565"
+performer = "Advent Chamber Orchestra, David Parry, Roxana Pavel Goldstein"
+licence = "CC BY-SA 2.0"
+bpm = 138
+ms = 236730
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Antonio_Vivaldi_-_Concerto_for_Two_Violins_in_D_minor_Op._3_No._11_-_1._Allegro_-_Adagio_e_spiccato_-_Allegro.ogg/Antonio_Vivaldi_-_Concerto_for_Two_Violins_in_D_minor_Op._3_No._11_-_1._Allegro_-_Adagio_e_spiccato_-_Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Largo e spiccato"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 11 in D minor, RV 565"
+track = 5
+catalogue = "RV 565"
+performer = "Advent Chamber Orchestra, David Parry, Roxana Pavel Goldstein"
+licence = "CC BY-SA 2.0"
+bpm = 50
+ms = 134240
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Antonio_Vivaldi_-_Concerto_for_Two_Violins_in_D_minor_Op._3_No._11_-_2._Largo_e_spiccato.ogg/Antonio_Vivaldi_-_Concerto_for_Two_Violins_in_D_minor_Op._3_No._11_-_2._Largo_e_spiccato.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "L'estro armonico, Concerto No. 11 in D minor, RV 565"
+track = 6
+catalogue = "RV 565"
+performer = "Advent Chamber Orchestra, David Parry, Roxana Pavel Goldstein"
+licence = "CC BY-SA 2.0"
+bpm = 138
+ms = 146385
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Antonio_Vivaldi_-_Concerto_for_Two_Violins_in_D_minor_Op._3_No._11_-_3._Allegro.ogg/Antonio_Vivaldi_-_Concerto_for_Two_Violins_in_D_minor_Op._3_No._11_-_3._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "Cello Concerto in G major, RV 413"
+track = 7
+catalogue = "RV 413"
+performer = "Advent Chamber Orchestra, Stephen Balderston"
+licence = "CC BY-SA 2.0"
+bpm = 138
+ms = 196490
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a4/Vivaldi_-_Cello_Concerto_Gmaj_-_1._Allegro.ogg/Vivaldi_-_Cello_Concerto_Gmaj_-_1._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Largo"
+composer = "Antonio Vivaldi"
+part = "Cello Concerto in G major, RV 413"
+track = 8
+catalogue = "RV 413"
+performer = "Advent Chamber Orchestra, Stephen Balderston"
+licence = "CC BY-SA 2.0"
+bpm = 50
+ms = 237520
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/01/Vivaldi_-_Cello_Concerto_Gmaj_-_2._Largo.ogg/Vivaldi_-_Cello_Concerto_Gmaj_-_2._Largo.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Cello Concerto in G major, RV 413"
+track = 9
+catalogue = "RV 413"
+performer = "Advent Chamber Orchestra, Stephen Balderston"
+licence = "CC BY-SA 2.0"
+bpm = 138
+ms = 159860
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Vivaldi_-_Cello_Concerto_Gmaj_-_3._Allegro.ogg/Vivaldi_-_Cello_Concerto_Gmaj_-_3._Allegro.ogg.mp3"

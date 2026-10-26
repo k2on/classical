@@ -1,0 +1,72 @@
+[[person]]
+name = "Antonio Vivaldi"
+sort_name = "Vivaldi, Antonio"
+born = 1678
+died = 1741
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vivaldi.jpg/960px-Vivaldi.jpg"
+banner = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canaletto_-_The_Grand_Canal_with_S._Maria_della_Salute_towards_the_Riva_degli_Schiavoni_RCIN_400520.jpg/1920px-Canaletto_-_The_Grand_Canal_with_S._Maria_della_Salute_towards_the_Riva_degli_Schiavoni_RCIN_400520.jpg"
+description = "Venetian composer, violinist and priest, nicknamed \"the Red Priest\" for his hair. He wrote hundreds of concertos, many for the girls of the Ospedale della Pietà orphanage where he taught, and his three-movement fast–slow–fast form shaped the Baroque concerto."
+
+[[person]]
+name = "Johann Sebastian Bach"
+sort_name = "Bach, Johann Sebastian"
+born = 1685
+died = 1750
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johann_Sebastian_Bach_1746.jpg/960px-Johann_Sebastian_Bach_1746.jpg"
+description = "German composer and organist who spent most of his career in Weimar, Köthen and, from 1723, Leipzig, as cantor of St Thomas. His keyboard, organ, choral and orchestral music sums up the Baroque, and his counterpoint has been studied by every generation since."
+
+[[person]]
+name = "George Frideric Handel"
+sort_name = "Handel, George Frideric"
+born = 1685
+died = 1759
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/960px-George_Frideric_Handel_by_Balthasar_Denner.jpg"
+description = "German-born composer who made his career in London, writing Italian operas for the stage and then English oratorios such as Messiah. He became a British subject in 1727 and is buried in Westminster Abbey."
+
+[[person]]
+name = "Ludwig van Beethoven"
+sort_name = "Beethoven, Ludwig van"
+born = 1770
+died = 1827
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"
+description = "Composer and pianist born in Bonn who settled in Vienna. His nine symphonies, 32 piano sonatas and string quartets bridge the Classical and Romantic eras, and he kept composing after he had lost his hearing."
+
+[[person]]
+name = "Franz Schubert"
+sort_name = "Schubert, Franz"
+born = 1797
+died = 1828
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/960px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg"
+description = "Viennese composer who wrote over six hundred songs as well as symphonies, chamber music and piano works, nearly all of it before his death at thirty-one."
+
+[[person]]
+name = "Frédéric Chopin"
+sort_name = "Chopin, Frédéric"
+born = 1810
+died = 1849
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/960px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png"
+description = "Polish composer and pianist who settled in Paris in 1831. Almost everything he wrote is for solo piano — ballades, nocturnes, études, mazurkas and polonaises — and it changed what the instrument could sing."
+
+[[person]]
+name = "Johannes Brahms"
+sort_name = "Brahms, Johannes"
+born = 1833
+died = 1897
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JohannesBrahms.jpg/960px-JohannesBrahms.jpg"
+description = "German composer and pianist who worked mostly in Vienna. He wrote four symphonies, concertos, chamber music, songs and A German Requiem, holding to Classical forms through the Romantic era."
+
+[[person]]
+name = "Claude Debussy"
+sort_name = "Debussy, Claude"
+born = 1862
+died = 1918
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg/960px-Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg"
+description = "French composer whose harmony and tone colour — whole-tone scales, unresolved chords, music built from sound and atmosphere — opened the way to twentieth-century music. He disliked the label \"Impressionist\" it earned him."

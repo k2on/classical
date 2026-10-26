@@ -1,0 +1,133 @@
+name = "The Four Seasons"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 1 in E major, RV 269 (Spring)"
+track = 1
+catalogue = "RV 269"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 214013
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/18/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Spring%2C_RV_269_-_I._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Spring%2C_RV_269_-_I._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Largo"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 1 in E major, RV 269 (Spring)"
+track = 2
+catalogue = "RV 269"
+performer = "The Modena Chamber Orchestra"
+bpm = 50
+ms = 178777
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Spring%2C_RV_269_-_II._Largo.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Spring%2C_RV_269_-_II._Largo.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 1 in E major, RV 269 (Spring)"
+track = 3
+catalogue = "RV 269"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 258151
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Spring%2C_RV_269_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Spring%2C_RV_269_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro non molto"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 2 in G minor, RV 315 (Summer)"
+track = 4
+catalogue = "RV 315"
+performer = "The Modena Chamber Orchestra"
+bpm = 120
+ms = 328064
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Summer%2C_RV_315_-_I._Allegro_non_molto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Summer%2C_RV_315_-_I._Allegro_non_molto.ogg.mp3"
+
+[[track]]
+title = "II. Adagio"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 2 in G minor, RV 315 (Summer)"
+track = 5
+catalogue = "RV 315"
+performer = "The Modena Chamber Orchestra"
+bpm = 71
+ms = 124823
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Summer%2C_RV_315_-_II._Adagio.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Summer%2C_RV_315_-_II._Adagio.ogg.mp3"
+
+[[track]]
+title = "III. Presto"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 2 in G minor, RV 315 (Summer)"
+track = 6
+catalogue = "RV 315"
+performer = "The Modena Chamber Orchestra"
+bpm = 184
+ms = 176622
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Summer%2C_RV_315_-_III._Presto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Summer%2C_RV_315_-_III._Presto.ogg.mp3"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 3 in F major, RV 293 (Autumn)"
+track = 7
+catalogue = "RV 293"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 329337
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Autumn%2C_RV_293_-_I._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Autumn%2C_RV_293_-_I._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Adagio molto"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 3 in F major, RV 293 (Autumn)"
+track = 8
+catalogue = "RV 293"
+performer = "The Modena Chamber Orchestra"
+bpm = 60
+ms = 200703
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Autumn%2C_RV_293_-_II._Adagio_molto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Autumn%2C_RV_293_-_II._Adagio_molto.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 3 in F major, RV 293 (Autumn)"
+track = 9
+catalogue = "RV 293"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 202379
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Autumn%2C_RV_293_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Autumn%2C_RV_293_-_III._Allegro.ogg.mp3"
+
+[[track]]
+title = "I. Allegro non molto"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 4 in F minor, RV 297 (Winter)"
+track = 10
+catalogue = "RV 297"
+performer = "The Modena Chamber Orchestra"
+bpm = 120
+ms = 205514
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Winter%2C_RV_297_-_I._Allegro_non_molto.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Winter%2C_RV_297_-_I._Allegro_non_molto.ogg.mp3"
+
+[[track]]
+title = "II. Largo"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 4 in F minor, RV 297 (Winter)"
+track = 11
+catalogue = "RV 297"
+performer = "The Modena Chamber Orchestra"
+bpm = 50
+ms = 163847
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Winter%2C_RV_297_-_II._Largo.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Winter%2C_RV_297_-_II._Largo.ogg.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Concerto No. 4 in F minor, RV 297 (Winter)"
+track = 12
+catalogue = "RV 297"
+performer = "The Modena Chamber Orchestra"
+bpm = 138
+ms = 178571
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Winter%2C_RV_297_-_III._Allegro.ogg/The_Modena_Chamber_Orchestra_-_Vivaldi%27s_Winter%2C_RV_297_-_III._Allegro.ogg.mp3"

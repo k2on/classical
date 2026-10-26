@@ -1,0 +1,18 @@
+name = "Ballades"
+art = "https://upload.wikimedia.org/wikipedia/commons/9/96/Chopin_Ballade_1.png"
+
+[[track]]
+title = "Ballade No. 1 in G minor, Op. 23"
+composer = "Frédéric Chopin"
+track = 1
+catalogue = "Op. 23"
+ms = 679000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/Frederic_Chopin_-_ballade_no._1_in_g_minor%2C_op._23.ogg/Frederic_Chopin_-_ballade_no._1_in_g_minor%2C_op._23.ogg.mp3"
+
+[[track]]
+title = "Ballade No. 2 in F major, Op. 38"
+composer = "Frédéric Chopin"
+track = 2
+catalogue = "Op. 38"
+ms = 420000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Frederic_Chopin_-_ballade_no._2_in_f_major%2C_op._38.ogg/Frederic_Chopin_-_ballade_no._2_in_f_major%2C_op._38.ogg.mp3"

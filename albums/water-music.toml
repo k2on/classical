@@ -1,0 +1,176 @@
+name = "Water Music"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GeorgIvonGro%C3%9FbritannienGeorgFriedrichHaendelHamman.jpg/960px-GeorgIvonGro%C3%9FbritannienGeorgFriedrichHaendelHamman.jpg"
+
+[[track]]
+title = "Alla Hornpipe"
+composer = "George Frideric Handel"
+part = "Suite No. 2 in D major"
+track = 12
+catalogue = "HWV 349"
+performer = "United States Marine Band"
+bpm = 120
+ms = 229000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Minuet"
+composer = "George Frideric Handel"
+part = "Suite No. 2 in D major"
+track = 13
+catalogue = "HWV 349"
+performer = "United States Marine Band"
+bpm = 120
+ms = 195000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Handel%27s_Water_Music_-_13._Minuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_13._Minuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Lentement"
+composer = "George Frideric Handel"
+part = "Suite No. 2 in D major"
+track = 14
+catalogue = "HWV 349"
+performer = "United States Marine Band"
+bpm = 60
+ms = 136000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Handel%27s_Water_Music_-_14._Lentement_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_14._Lentement_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Bourrée"
+composer = "George Frideric Handel"
+part = "Suite No. 2 in D major"
+track = 15
+catalogue = "HWV 349"
+performer = "United States Marine Band"
+bpm = 132
+ms = 76000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/Handel%27s_Water_Music_-_15._Bourree_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_15._Bourree_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Sarabande"
+composer = "George Frideric Handel"
+part = "Suite No. 3 in G major"
+track = 16
+catalogue = "HWV 350"
+performer = "United States Marine Band"
+bpm = 60
+ms = 168000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Handel%27s_Water_Music_-_16._Sarabande_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_16._Sarabande_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Rigaudon"
+composer = "George Frideric Handel"
+part = "Suite No. 3 in G major"
+track = 17
+catalogue = "HWV 350"
+performer = "United States Marine Band"
+bpm = 132
+ms = 156000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Handel%27s_Water_Music_-_17._%26_18._Rigaudon_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_17._%26_18._Rigaudon_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Menuet"
+composer = "George Frideric Handel"
+part = "Suite No. 3 in G major"
+track = 19
+catalogue = "HWV 350"
+performer = "United States Marine Band"
+bpm = 120
+ms = 227000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/Handel%27s_Water_Music_-_19._%26_20._Menuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_19._%26_20._Menuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Gigue"
+composer = "George Frideric Handel"
+part = "Suite No. 3 in G major"
+track = 21
+catalogue = "HWV 350"
+performer = "United States Marine Band"
+bpm = 120
+ms = 85000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Handel%27s_Water_Music_-_21._%26_22._Gigue_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_21._%26_22._Gigue_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track]]
+title = "Overture"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 1
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+ms = 226847
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6e/1-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Overture%29_HWV348.ogg/1-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Overture%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Adagio e staccato"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 2
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+bpm = 66
+ms = 160758
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f2/2-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28AdagioEStaccato%29_HWV348.ogg/2-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28AdagioEStaccato%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Allegro – Andante – Allegro"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 3
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+bpm = 138
+ms = 541806
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3f/3-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Allegro-Andante-Allegro%29_HWV348.ogg/3-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Allegro-Andante-Allegro%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Presto"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 4
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+bpm = 176
+ms = 161226
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/4-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Presto%29_HWV348.ogg/4-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Presto%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Air"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 5
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+ms = 251246
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/03/5-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Air%29_HWV348.ogg/5-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Air%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Minuet"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 6
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+bpm = 120
+ms = 174315
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b4/6-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Minuet%29_HWV348.ogg/6-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Minuet%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Bourrée – Hornpipe"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 7
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+bpm = 120
+ms = 87510
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/7-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Bourre-Hornpipe%29_HWV348.ogg/7-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Bourre-Hornpipe%29_HWV348.ogg.mp3"
+
+[[track]]
+title = "Allegro moderato"
+composer = "George Frideric Handel"
+part = "Suite No. 1 in F major"
+track = 8
+catalogue = "HWV 348"
+licence = "CC BY-SA 3.0"
+bpm = 108
+ms = 201273
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/8-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Allegro_Moderato%29_HWV348.ogg/8-George_Frideric_Handel_-_Water_Music_Suite_in_F_major_%28Allegro_Moderato%29_HWV348.ogg.mp3"

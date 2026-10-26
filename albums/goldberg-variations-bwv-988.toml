@@ -1,0 +1,289 @@
+name = "Goldberg Variations, BWV 988"
+
+[[track]]
+title = "Aria"
+composer = "Johann Sebastian Bach"
+track = 1
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 300000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Kimiko_Ishizaka_-_01_-_Aria.ogg/Kimiko_Ishizaka_-_01_-_Aria.ogg.mp3"
+
+[[track]]
+title = "Variatio 1 a 1 Clav"
+composer = "Johann Sebastian Bach"
+track = 2
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 115000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/20/Kimiko_Ishizaka_-_02_-_Variatio_1_a_1_Clav.ogg/Kimiko_Ishizaka_-_02_-_Variatio_1_a_1_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 2 a 1 Clav"
+composer = "Johann Sebastian Bach"
+track = 3
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 124000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9e/Kimiko_Ishizaka_-_03_-_Variatio_2_a_1_Clav.ogg/Kimiko_Ishizaka_-_03_-_Variatio_2_a_1_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 3 a 1 Clav Canone allUnisuono"
+composer = "Johann Sebastian Bach"
+track = 4
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 117000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/Kimiko_Ishizaka_-_04_-_Variatio_3_a_1_Clav_Canone_allUnisuono.ogg/Kimiko_Ishizaka_-_04_-_Variatio_3_a_1_Clav_Canone_allUnisuono.ogg.mp3"
+
+[[track]]
+title = "Variatio 4 a 1 Clav"
+composer = "Johann Sebastian Bach"
+track = 5
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 69000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Kimiko_Ishizaka_-_05_-_Variatio_4_a_1_Clav.ogg/Kimiko_Ishizaka_-_05_-_Variatio_4_a_1_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 5 a 1 ovvero 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 6
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 94000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Kimiko_Ishizaka_-_06_-_Variatio_5_a_1_ovvero_2_Clav.ogg/Kimiko_Ishizaka_-_06_-_Variatio_5_a_1_ovvero_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 6 a 1 Clav Canone alla Seconda"
+composer = "Johann Sebastian Bach"
+track = 7
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 98000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Kimiko_Ishizaka_-_07_-_Variatio_6_a_1_Clav_Canone_alla_Seconda.ogg/Kimiko_Ishizaka_-_07_-_Variatio_6_a_1_Clav_Canone_alla_Seconda.ogg.mp3"
+
+[[track]]
+title = "Variatio 7 a 1 ovvero 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 8
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 132000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/Kimiko_Ishizaka_-_08_-_Variatio_7_a_1_ovvero_2_Clav.ogg/Kimiko_Ishizaka_-_08_-_Variatio_7_a_1_ovvero_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 8 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 9
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 117000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Kimiko_Ishizaka_-_09_-_Variatio_8_a_2_Clav.ogg/Kimiko_Ishizaka_-_09_-_Variatio_8_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 9 a 1 Clav Canone alla Terza"
+composer = "Johann Sebastian Bach"
+track = 10
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 126000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/Kimiko_Ishizaka_-_10_-_Variatio_9_a_1_Clav_Canone_alla_Terza.ogg/Kimiko_Ishizaka_-_10_-_Variatio_9_a_1_Clav_Canone_alla_Terza.ogg.mp3"
+
+[[track]]
+title = "Variatio 10 a 1 Clav Fughetta"
+composer = "Johann Sebastian Bach"
+track = 11
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 106000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/Kimiko_Ishizaka_-_11_-_Variatio_10_a_1_Clav_Fughetta.ogg/Kimiko_Ishizaka_-_11_-_Variatio_10_a_1_Clav_Fughetta.ogg.mp3"
+
+[[track]]
+title = "Variatio 11 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 12
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 129000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2f/Kimiko_Ishizaka_-_12_-_Variatio_11_a_2_Clav.ogg/Kimiko_Ishizaka_-_12_-_Variatio_11_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 12 Canone alla Quarta"
+composer = "Johann Sebastian Bach"
+track = 13
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 136000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/Kimiko_Ishizaka_-_13_-_Variatio_12_Canone_alla_Quarta.ogg/Kimiko_Ishizaka_-_13_-_Variatio_12_Canone_alla_Quarta.ogg.mp3"
+
+[[track]]
+title = "Variatio 13 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 14
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 254000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/Kimiko_Ishizaka_-_14_-_Variatio_13_a_2_Clav.ogg/Kimiko_Ishizaka_-_14_-_Variatio_13_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 14 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 15
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 137000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Kimiko_Ishizaka_-_15_-_Variatio_14_a_2_Clav.ogg/Kimiko_Ishizaka_-_15_-_Variatio_14_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 15 a 1 Clav Canone alla Quinta"
+composer = "Johann Sebastian Bach"
+track = 16
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 273000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/Kimiko_Ishizaka_-_16_-_Variatio_15_a_1_Clav_Canone_alla_Quinta.ogg/Kimiko_Ishizaka_-_16_-_Variatio_15_a_1_Clav_Canone_alla_Quinta.ogg.mp3"
+
+[[track]]
+title = "Variatio 16 a 1 Clav Ouverture"
+composer = "Johann Sebastian Bach"
+track = 17
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 189000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/Kimiko_Ishizaka_-_17_-_Variatio_16_a_1_Clav_Ouverture.ogg/Kimiko_Ishizaka_-_17_-_Variatio_16_a_1_Clav_Ouverture.ogg.mp3"
+
+[[track]]
+title = "Variatio 17 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 18
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 104000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/Kimiko_Ishizaka_-_18_-_Variatio_17_a_2_Clav.ogg/Kimiko_Ishizaka_-_18_-_Variatio_17_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 18 a 1 Clav Canone alla Sexta"
+composer = "Johann Sebastian Bach"
+track = 19
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 109000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Kimiko_Ishizaka_-_19_-_Variatio_18_a_1_Clav_Canone_alla_Sexta.ogg/Kimiko_Ishizaka_-_19_-_Variatio_18_a_1_Clav_Canone_alla_Sexta.ogg.mp3"
+
+[[track]]
+title = "Variatio 19 a 1 Clav"
+composer = "Johann Sebastian Bach"
+track = 20
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 85000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/Kimiko_Ishizaka_-_20_-_Variatio_19_a_1_Clav.ogg/Kimiko_Ishizaka_-_20_-_Variatio_19_a_1_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 20 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 21
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 125000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Kimiko_Ishizaka_-_21_-_Variatio_20_a_2_Clav.ogg/Kimiko_Ishizaka_-_21_-_Variatio_20_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 21 Canone alla Settima"
+composer = "Johann Sebastian Bach"
+track = 22
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 235000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/Kimiko_Ishizaka_-_22_-_Variatio_21_Canone_alla_Settima.ogg/Kimiko_Ishizaka_-_22_-_Variatio_21_Canone_alla_Settima.ogg.mp3"
+
+[[track]]
+title = "Variatio 22 a 1 Clav"
+composer = "Johann Sebastian Bach"
+track = 23
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 93000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Kimiko_Ishizaka_-_23_-_Variatio_22_a_1_Clav.ogg/Kimiko_Ishizaka_-_23_-_Variatio_22_a_1_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 23 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 24
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 140000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ec/Kimiko_Ishizaka_-_24_-_Variatio_23_a_2_Clav.ogg/Kimiko_Ishizaka_-_24_-_Variatio_23_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 24 a 1 Clav Canone allOttava"
+composer = "Johann Sebastian Bach"
+track = 25
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 165000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Kimiko_Ishizaka_-_25_-_Variatio_24_a_1_Clav_Canone_allOttava.ogg/Kimiko_Ishizaka_-_25_-_Variatio_24_a_1_Clav_Canone_allOttava.ogg.mp3"
+
+[[track]]
+title = "Variatio 25 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 26
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 558000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/Kimiko_Ishizaka_-_26_-_Variatio_25_a_2_Clav.ogg/Kimiko_Ishizaka_-_26_-_Variatio_25_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 26 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 27
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 123000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e4/Kimiko_Ishizaka_-_27_-_Variatio_26_a_2_Clav.ogg/Kimiko_Ishizaka_-_27_-_Variatio_26_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 27 a 2 Clav Canone alla Nona"
+composer = "Johann Sebastian Bach"
+track = 28
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 111000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/Kimiko_Ishizaka_-_28_-_Variatio_27_a_2_Clav_Canone_alla_Nona.ogg/Kimiko_Ishizaka_-_28_-_Variatio_27_a_2_Clav_Canone_alla_Nona.ogg.mp3"
+
+[[track]]
+title = "Variatio 28 a 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 29
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 146000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Kimiko_Ishizaka_-_29_-_Variatio_28_a_2_Clav.ogg/Kimiko_Ishizaka_-_29_-_Variatio_28_a_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 29 a 1 ovvero 2 Clav"
+composer = "Johann Sebastian Bach"
+track = 30
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 129000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Kimiko_Ishizaka_-_30_-_Variatio_29_a_1_ovvero_2_Clav.ogg/Kimiko_Ishizaka_-_30_-_Variatio_29_a_1_ovvero_2_Clav.ogg.mp3"
+
+[[track]]
+title = "Variatio 30 a 1 Clav Quodlibet"
+composer = "Johann Sebastian Bach"
+track = 31
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 121000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Kimiko_Ishizaka_-_31_-_Variatio_30_a_1_Clav_Quodlibet.ogg/Kimiko_Ishizaka_-_31_-_Variatio_30_a_1_Clav_Quodlibet.ogg.mp3"
+
+[[track]]
+title = "Aria da Capo Fine"
+composer = "Johann Sebastian Bach"
+track = 32
+catalogue = "BWV 988"
+performer = "Kimiko Ishizaka"
+ms = 170000
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Kimiko_Ishizaka_-_32_-_Aria_da_Capo_Fine.ogg/Kimiko_Ishizaka_-_32_-_Aria_da_Capo_Fine.ogg.mp3"
