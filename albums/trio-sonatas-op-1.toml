@@ -1,0 +1,32 @@
+name = "Trio Sonatas, Op. 1"
+art = "https://archive.org/download/vivaldi-o-trio-sonatas-for-2-violins-continuo-salvatore-accardo-franco-gulli/vignette.jpg"
+year = 1977
+
+[[performer]]
+name = "Salvatore Accardo"
+role = "soloist"
+instrument = "Violin"
+
+[[performer]]
+name = "Franco Gulli"
+role = "soloist"
+instrument = "Violin"
+
+[[performer]]
+name = "Rohan de Saram"
+role = "soloist"
+instrument = "Cello"
+
+[[performer]]
+name = "Bruno Canino"
+role = "soloist"
+instrument = "Harpsichord"
+
+[[track]]
+title = "Sonata No. 12 in D minor, RV 63 \"La Follia\""
+composer = "Antonio Vivaldi"
+track = 12
+catalogue = "RV 63"
+licence = "© 1977 Decca"
+ms = 682420
+file = "https://archive.org/download/vivaldi-o-trio-sonatas-for-2-violins-continuo-salvatore-accardo-franco-gulli/%2312%20Vivaldi%20A.%20%E2%80%A2%20Trio%20Sonata%20in%20D%20minor%20for%202%20Violins%20%26%20Continuo%2C%20Op.1%20n%C2%B0%2012%2C%20RV%2063.mp3"

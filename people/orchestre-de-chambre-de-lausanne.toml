@@ -1,0 +1,4 @@
+name = "Orchestre de chambre de Lausanne"
+kinds = ["orchestra"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/df/bb/28/dfbb2849-ed81-8899-b41e-3ea2c81f6fb3/mza_15816986800279962002.png/1200x1200bb.jpg"
+description = "Swiss chamber orchestra founded in Lausanne in 1942 by Victor Desarzens."

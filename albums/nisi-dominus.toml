@@ -1,0 +1,102 @@
+name = "Nisi Dominus"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/a0/0e/bea00e64-14ec-57c2-a44e-cad4e67a3105/8717306263740_cover.jpg/1200x1200bb.jpg"
+year = 2024
+
+[[performer]]
+name = "Maarten Engeltjes"
+role = "soloist"
+instrument = "Countertenor"
+
+[[performer]]
+name = "PRJCT Amsterdam"
+role = "ensemble"
+
+[[track]]
+title = "I. Nisi Dominus"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 1
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 156270
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/13.%20Nisi%20Dominus%2C%20RV%20608%20-%20I.%20Nisi%20Dominus.flac"
+
+[[track]]
+title = "II. Vanum est vobis"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 2
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 84670
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/14.%20Nisi%20Dominus%2C%20RV%20608%20-%20II.%20Vanum%20est%20vobis.flac"
+
+[[track]]
+title = "III. Surgite"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 3
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 95650
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/15.%20Nisi%20Dominus%2C%20RV%20608%20-%20III.%20Surgite.flac"
+
+[[track]]
+title = "IV. Cum dederit"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 4
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 280470
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/16.%20Nisi%20Dominus%2C%20RV%20608%20-%20IV.%20Cum%20dederit.flac"
+
+[[track]]
+title = "V. Sicut sagittae"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 5
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 107570
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/17.%20Nisi%20Dominus%2C%20RV%20608%20-%20V.%20Sicut%20sagittae.flac"
+
+[[track]]
+title = "VI. Beatus vir"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 6
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 59270
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/18.%20Nisi%20Dominus%2C%20RV%20608%20-%20VI.%20Beatus%20vir.flac"
+
+[[track]]
+title = "VII. Gloria Patri"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 7
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 279010
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/19.%20Nisi%20Dominus%2C%20RV%20608%20-%20VII.%20Gloria%20Patri.flac"
+
+[[track]]
+title = "VIII. Sicut erat in principio"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 8
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 68250
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/20.%20Nisi%20Dominus%2C%20RV%20608%20-%20VIII.%20Sicut%20erat%20in%20principio.flac"
+
+[[track]]
+title = "IX. Amen"
+composer = "Antonio Vivaldi"
+part = "Nisi Dominus in G minor, RV 608"
+track = 9
+catalogue = "RV 608"
+licence = "© 2024 PRJCT Amsterdam"
+ms = 113270
+file = "https://archive.org/download/maarten-engeltjes-shira-patchornik-prjct-amsterdam-pergolesi-stabat-mater/21.%20Nisi%20Dominus%2C%20RV%20608%20-%20IX.%20Amen.flac"

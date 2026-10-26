@@ -1,0 +1,42 @@
+name = "Vivaldi: Concertos"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/f2/10/54f21010-bd70-e186-ce1f-4962ae5ececa/mzi.ypyqvflc.jpg/1200x1200bb.jpg"
+year = 1995
+
+[[performer]]
+name = "Angel Romero"
+role = "soloist"
+instrument = "Guitar"
+
+[[performer]]
+name = "Academy of St Martin in the Fields"
+role = "orchestra"
+
+[[track]]
+title = "I. Allegro"
+composer = "Antonio Vivaldi"
+part = "Lute Concerto in D major, RV 93"
+track = 7
+catalogue = "RV 93"
+licence = "© 1995 BMG"
+ms = 199610
+file = "https://archive.org/download/VivaldiLuteConcertoInDRv93a.Romero/07Vivaldi_ChamberConcertoInDRv93-1.Allegro.mp3"
+
+[[track]]
+title = "II. Largo"
+composer = "Antonio Vivaldi"
+part = "Lute Concerto in D major, RV 93"
+track = 8
+catalogue = "RV 93"
+licence = "© 1995 BMG"
+ms = 282420
+file = "https://archive.org/download/VivaldiLuteConcertoInDRv93a.Romero/08Vivaldi_ChamberConcertoInDRv93-2.Largo.mp3"
+
+[[track]]
+title = "III. Allegro"
+composer = "Antonio Vivaldi"
+part = "Lute Concerto in D major, RV 93"
+track = 9
+catalogue = "RV 93"
+licence = "© 1995 BMG"
+ms = 128590
+file = "https://archive.org/download/VivaldiLuteConcertoInDRv93a.Romero/09Vivaldi_ChamberConcertoInDRv93-3.Allegro.mp3"

@@ -1,0 +1,70 @@
+name = "6 Flute Concertos, Op. 10"
+art = "https://cdn-images.dzcdn.net/images/cover/8c3735ccfe1bfcafde6a1ec015179bf8/1000x1000-000000-80-0-0.jpg"
+year = 1988
+
+[[performer]]
+name = "Lisa Beznosiuk"
+role = "soloist"
+instrument = "Flute"
+
+[[performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[performer]]
+name = "Trevor Pinnock"
+role = "conductor"
+
+[[track]]
+title = "Concerto No. 1 in F major, RV 433 \"La tempesta di mare\""
+composer = "Antonio Vivaldi"
+track = 1
+catalogue = "RV 433"
+licence = "© 1988 Deutsche Grammophon"
+ms = 410540
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%205/CD5-1%20Flute%20Concerto%20in%20F%20major%2C%20RV%20433%20%E2%80%9CLa%20tempesta%20di%20mare%E2%80%9D.mp3"
+
+[[track]]
+title = "Concerto No. 2 in G minor, RV 439 \"La notte\""
+composer = "Antonio Vivaldi"
+track = 2
+catalogue = "RV 439"
+licence = "© 1988 Deutsche Grammophon"
+ms = 530550
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%205/CD5-2%20Flute%20Concerto%20in%20G%20minor%2C%20RV%20439%20%E2%80%9CLa%20notte%E2%80%9D.mp3"
+
+[[track]]
+title = "Concerto No. 3 in D major, RV 428 \"Il gardellino\""
+composer = "Antonio Vivaldi"
+track = 3
+catalogue = "RV 428"
+licence = "© 1988 Deutsche Grammophon"
+ms = 601440
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%205/CD5-3%20Flute%20Concerto%20in%20D%20major%2C%20RV%20428%20%E2%80%9CIl%20Gardellino%E2%80%9D.mp3"
+
+[[track]]
+title = "Concerto No. 4 in G major, RV 435"
+composer = "Antonio Vivaldi"
+track = 4
+catalogue = "RV 435"
+licence = "© 1988 Deutsche Grammophon"
+ms = 412730
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%205/CD5-4%20Flute%20Concerto%20in%20G%20major%2C%20RV%20435.mp3"
+
+[[track]]
+title = "Concerto No. 5 in F major, RV 434"
+composer = "Antonio Vivaldi"
+track = 5
+catalogue = "RV 434"
+licence = "© 1988 Deutsche Grammophon"
+ms = 562940
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%205/CD5-5%20Flute%20Concerto%20in%20F%20major%2C%20RV%20434.mp3"
+
+[[track]]
+title = "Concerto No. 6 in G major, RV 437"
+composer = "Antonio Vivaldi"
+track = 6
+catalogue = "RV 437"
+licence = "© 1988 Deutsche Grammophon"
+ms = 488800
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%205/CD5-6%20Flute%20Concerto%20in%20G%20major%2C%20RV%20437.mp3"

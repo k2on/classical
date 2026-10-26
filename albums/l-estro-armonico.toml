@@ -1,0 +1,104 @@
+name = "L'estro armonico"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/55/ed/1655edc3-585e-8030-0d54-738be1717b9e/00028942309425.rgb.jpg/1200x1200bb.jpg"
+year = 1987
+
+[[performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[performer]]
+name = "Trevor Pinnock"
+role = "conductor"
+
+[[track]]
+title = "Concerto No. 6 in A minor, RV 356"
+composer = "Antonio Vivaldi"
+track = 1
+catalogue = "RV 356"
+licence = "© 1987 Deutsche Grammophon"
+ms = 440240
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%203/CD3-6%20Concerto%20grosso%20in%20A%20minor%2C%20Op.%203_6%2C%20RV%20356.mp3"
+
+[[track.performer]]
+name = "Simon Standage"
+role = "soloist"
+instrument = "Violin"
+
+[[track.performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[track.performer]]
+name = "Trevor Pinnock"
+role = "conductor"
+
+[[track]]
+title = "Concerto No. 8 in A minor, RV 522"
+composer = "Antonio Vivaldi"
+track = 2
+catalogue = "RV 522"
+licence = "© 1987 Deutsche Grammophon"
+ms = 632560
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%204/CD4-2%20Concerto%20Grosso%20for%202%20Violins%2C%20Strings%20and%20Continuo%20in%20A%20minor%2C%20Op.%203_8%2C%20RV%20522.mp3"
+
+[[track.performer]]
+name = "Elizabeth Wilcock"
+role = "soloist"
+instrument = "Violin"
+
+[[track.performer]]
+name = "Micaela Comberti"
+role = "soloist"
+instrument = "Violin"
+
+[[track.performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[track.performer]]
+name = "Trevor Pinnock"
+role = "conductor"
+
+[[track]]
+title = "Concerto No. 10 in B minor, RV 580"
+composer = "Antonio Vivaldi"
+track = 3
+catalogue = "RV 580"
+licence = "© 1987 Deutsche Grammophon"
+ms = 550660
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%204/CD4-4%20Concerto%20grosso%20in%20B%20minor%2C%20Op.%203_10%2C%20RV%20580.mp3"
+
+[[track.performer]]
+name = "Simon Standage"
+role = "soloist"
+instrument = "Violin"
+
+[[track.performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[track.performer]]
+name = "Trevor Pinnock"
+role = "conductor"
+
+[[track]]
+title = "Concerto No. 11 in D minor, RV 565"
+composer = "Antonio Vivaldi"
+track = 4
+catalogue = "RV 565"
+licence = "© 1987 Deutsche Grammophon"
+ms = 502180
+file = "https://archive.org/download/vivaldi-o-concertos-the-english-concert-20220605/CD%204/CD4-5%20Concerto%20grosso%20in%20D%20minor%2C%20Op.%203_11%2C%20RV%20565.mp3"
+
+[[track.performer]]
+name = "Simon Standage"
+role = "soloist"
+instrument = "Violin"
+
+[[track.performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[track.performer]]
+name = "Trevor Pinnock"
+role = "conductor"

@@ -1,0 +1,5 @@
+name = "The English Concert"
+sort_name = "English Concert, The"
+kinds = ["orchestra"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c1/f9/ad/c1f9adbd-c067-97de-4de4-cde31e222a67/ami-identity-441da429b6805a2129d72dbb370d71f0-2026-03-28T23-43-48.518Z_cropped.png/1200x1200bb.jpg"
+description = "London period-instrument orchestra founded by Trevor Pinnock in 1972, whose Vivaldi, Bach and Handel recordings for Archiv helped make Baroque music on old instruments ordinary."

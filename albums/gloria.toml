@@ -1,0 +1,25 @@
+name = "Gloria"
+art = "https://cdn-images.dzcdn.net/images/cover/ed52adee579d0decee62a7076a15a6e1/1000x1000-000000-80-0-0.jpg"
+year = 1975
+
+[[performer]]
+name = "Ensemble vocal de Lausanne"
+role = "ensemble"
+instrument = "Choir"
+
+[[performer]]
+name = "Orchestre de chambre de Lausanne"
+role = "orchestra"
+
+[[performer]]
+name = "Michel Corboz"
+role = "conductor"
+
+[[track]]
+title = "Gloria in D major, RV 589"
+composer = "Antonio Vivaldi"
+track = 1
+catalogue = "RV 589"
+licence = "© Erato"
+ms = 1867110
+file = "https://archive.org/download/vivaldi-gloria-in-d-major-rv-589-michel-corboz-dvg/%2813-23%29%20Vivaldi%20A.%20-%20Gloria%20in%20D%20major%2C%20RV%20589%20%28Michel%20Corboz%29.flac"

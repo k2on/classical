@@ -1,0 +1,106 @@
+name = "Stabat Mater"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/8f/20/f38f2025-59b5-6e51-59a1-3a87d8651fd0/5414939985164_cover.jpg/1200x1200bb.jpg"
+year = 1995
+
+[[performer]]
+name = "Andreas Scholl"
+role = "soloist"
+instrument = "Countertenor"
+
+[[performer]]
+name = "Ensemble 415"
+role = "ensemble"
+
+[[performer]]
+name = "Chiara Banchini"
+role = "conductor"
+
+[[track]]
+title = "I. Stabat mater dolorosa"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 1
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 174760
+file = "https://archive.org/download/vivaldistabatmater/13%20-%20Stabat%20Mater%20RV%20621%20Stabat%20mater%20dolorosa.%20-Largo-.flac"
+
+[[track]]
+title = "II. Cujus animam gementem"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 2
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 107530
+file = "https://archive.org/download/vivaldistabatmater/14%20-%20Stabat%20Mater%20RV%20621%20Cujus%20animam%20gementem.%20-Adagio-.flac"
+
+[[track]]
+title = "III. O quam tristis"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 3
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 113330
+file = "https://archive.org/download/vivaldistabatmater/15%20-%20Stabat%20Mater%20RV%20621%20O%20quam%20tristis.%20-Andante-.flac"
+
+[[track]]
+title = "IV. Quis est homo"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 4
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 170370
+file = "https://archive.org/download/vivaldistabatmater/16%20-%20Stabat%20Mater%20RV%20621%20Quis%20est%20homo.%20-Largo-.flac"
+
+[[track]]
+title = "V. Quis non posset"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 5
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 124470
+file = "https://archive.org/download/vivaldistabatmater/17%20-%20Stabat%20Mater%20RV%20621%20Quis%20non%20posset.%20-Adagio-.flac"
+
+[[track]]
+title = "VI. Pro peccatis suae gentis"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 6
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 110130
+file = "https://archive.org/download/vivaldistabatmater/18%20-%20Stabat%20Mater%20RV%20621%20Pro%20peccatis%20suae%20gentis.%20-Andante-.flac"
+
+[[track]]
+title = "VII. Eja mater, fons amoris"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 7
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 163830
+file = "https://archive.org/download/vivaldistabatmater/19%20-%20Stabat%20Mater%20RV%20621%20Eja%20mater%2C%20fons%20amoris.%20-Largo-.flac"
+
+[[track]]
+title = "VIII. Fac ut ardeat"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 8
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 98670
+file = "https://archive.org/download/vivaldistabatmater/20%20-%20Stabat%20Mater%20RV%20621%20Fac%20ut%20ardeat.%20-Lento-.flac"
+
+[[track]]
+title = "IX. Amen"
+composer = "Antonio Vivaldi"
+part = "Stabat Mater in F minor, RV 621"
+track = 9
+catalogue = "RV 621"
+licence = "© 1995 harmonia mundi"
+ms = 67510
+file = "https://archive.org/download/vivaldistabatmater/21%20-%20Stabat%20Mater%20RV%20621%20Amen.%20-Allegro-.flac"
