@@ -70,7 +70,8 @@ let
       # names its own.
       performer = performers;
       # Empty for public domain or no rights reserved; otherwise the licence
-      # the recording asks to be credited under, drawn beside its performer.
+      # the recording asks to be credited under, or the copyright it is
+      # under, drawn beside its performer.
       licence = "";
       bpm = 0;
     };
@@ -114,9 +115,7 @@ let
     )
   );
 
-  # Checks: a reference that does not resolve or a licence that is not one
-  # of these is a mistake in the files.
-  licences = "(CC0 1\\.0|CC BY [0-9.]+|CC BY-SA [0-9.]+)?";
+  # Checks: a reference that does not resolve is a mistake in the files.
   names = map (p: p.name) people;
   catalogues = map (w: w.catalogue) (builtins.filter (w: w.catalogue != "") works);
   has = list: x: builtins.elem x list;
@@ -136,7 +135,6 @@ let
       in
       check what (has names t.composer) "composer ${t.composer} is not in people/"
       ++ check what (t.catalogue == "" || has catalogues t.catalogue) "${t.catalogue} is not in works/"
-      ++ check what (builtins.match licences t.licence != null) "licence \"${t.licence}\" is not CC0 1.0, CC BY or CC BY-SA"
       ++ check what (builtins.match "https://.*" t.file != null) "file is not an https URL"
       ++ check what (t.ms > 0) "no duration (ms)"
       ++ builtins.concatMap (

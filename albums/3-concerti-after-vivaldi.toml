@@ -1,0 +1,44 @@
+name = "3 Concerti after Vivaldi"
+art = "https://cdn-images.dzcdn.net/images/cover/0d805e853050ff5684ca4607367ac49f/1000x1000-000000-80-0-0.jpg"
+year = 1984
+
+[[performer]]
+name = "Daniel Chorzempa"
+role = "soloist"
+instrument = "Organ"
+
+[[track]]
+title = "Concerto in D minor (after Vivaldi), BWV 596"
+composer = "Johann Sebastian Bach"
+track = 1
+catalogue = "BWV 596"
+licence = "© 1984 Philips"
+ms = 733000
+file = "https://archive.org/download/bach-j.s.-3-concerti-after-vivaldi-daniel-chorzempa-dvg/01%20Bach%20J.S.%20-%20Organ%20Concerto%20in%20D%20minor%2C%20BWV%20596.flac"
+
+[[track]]
+title = "Concerto in A minor (after Vivaldi), BWV 593"
+composer = "Johann Sebastian Bach"
+track = 2
+catalogue = "BWV 593"
+licence = "© 1984 Philips"
+ms = 765000
+file = "https://archive.org/download/bach-j.s.-3-concerti-after-vivaldi-daniel-chorzempa-dvg/02-04%20J.S.%20Bach%20-%20Organ%20Concerto%20in%20A%20minor%2C%20BWV%20593.flac"
+
+[[track]]
+title = "Concerto in C major (after Vivaldi), BWV 594"
+composer = "Johann Sebastian Bach"
+track = 3
+catalogue = "BWV 594"
+licence = "© 1984 Philips"
+ms = 1245840
+file = "https://archive.org/download/bach-j.s.-3-concerti-after-vivaldi-daniel-chorzempa-dvg/05-07%20J.S.%20Bach%20-%20Organ%20Concerto%20in%20C%2C%20BWV%20594.flac"
+
+[[track]]
+title = "Fugue in B minor on a theme by Corelli, BWV 579"
+composer = "Johann Sebastian Bach"
+track = 4
+catalogue = "BWV 579"
+licence = "© 1984 Philips"
+ms = 367990
+file = "https://archive.org/download/bach-j.s.-3-concerti-after-vivaldi-daniel-chorzempa-dvg/08%20J.S.%20Bach%20-%20Fugue%20in%20B%20minor%2C%20BWV%20579.flac"

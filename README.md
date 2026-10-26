@@ -1,6 +1,6 @@
 # classical
 
-Classical recordings that are free to download, with what they are: the
+Classical recordings that can be downloaded, with what they are: the
 work, who wrote it and who played it, pictures and short descriptions. The
 data is hand-written TOML, one file per thing; every push to `main` builds
 it into one file,
@@ -34,13 +34,14 @@ imports, and what its demo is made of.
 A field nobody knows is left out. `nix build` makes `result`, the JSON;
 `nix flake check` is what the push runs, and fails on a composer, performer
 or work that has no file, a performer without a role, a name or catalogue
-number used twice, a licence that is not public domain, CC0, CC BY or CC
-BY-SA, or a URL that is not https.
+number used twice, or a URL that is not https.
 
 ## Licences
 
-Every recording is public domain or under the licence its `licence` field
-names (empty is public domain or no rights reserved), as its source says.
-The pictures are on Wikimedia Commons: public domain, or under the licence
-their `art_credit` or `banner_credit` names. The data itself — the files
+Every recording is public domain or under what its `licence` field names
+(empty is public domain or no rights reserved), as its source says: a
+licence, or for a recording that has none the copyright it is under. The
+pictures are mostly on Wikimedia Commons: public domain, or under the
+licence their `art_credit` or `banner_credit` names; an album's art may be
+its sleeve. The data itself — the files
 here, descriptions included — is [CC0](LICENSE).
