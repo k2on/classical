@@ -1,0 +1,7 @@
+name = "Claude Debussy"
+sort_name = "Debussy, Claude"
+born = 1862
+died = 1918
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg/960px-Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg"
+description = "French composer whose harmony and tone colour — whole-tone scales, unresolved chords, music built from sound and atmosphere — opened the way to twentieth-century music. He disliked the label \"Impressionist\" it earned him."

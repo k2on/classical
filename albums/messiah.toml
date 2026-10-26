@@ -1,13 +1,20 @@
 name = "Messiah"
 art = "https://upload.wikimedia.org/wikipedia/commons/7/71/Messiah-titlepage.jpg"
 
+[[performer]]
+name = "London Symphony Orchestra"
+role = "orchestra"
+
+[[performer]]
+name = "Hermann Scherchen"
+role = "conductor"
+
 [[track]]
 title = "Sinfony"
 composer = "George Frideric Handel"
 part = "Part I"
 track = 1
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 317006
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_01._Sinfony.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_01._Sinfony.ogg.mp3"
 
@@ -17,7 +24,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 2
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 238006
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_02._Comfort_ye_my_people.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_02._Comfort_ye_my_people.ogg.mp3"
 
@@ -27,7 +33,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 3
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 210014
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_03._Ev%27ry_valley_shall_be_exalted.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_03._Ev%27ry_valley_shall_be_exalted.ogg.mp3"
 
@@ -37,7 +42,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 4
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 167014
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5e/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_04._And_the_glory_of_the_Lord.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_04._And_the_glory_of_the_Lord.ogg.mp3"
 
@@ -47,7 +51,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 5
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 120005
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/09/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_05._Thus_saith_the_Lord_of_hosts.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_05._Thus_saith_the_Lord_of_hosts.ogg.mp3"
 
@@ -57,7 +60,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 6
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 275007
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_06._But_who_may_abide_the_day_of_His_coming.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_06._But_who_may_abide_the_day_of_His_coming.ogg.mp3"
 
@@ -67,7 +69,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 7
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 124016
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/31/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_07._And_he_shall_purify_the_sons_of_Levi.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_07._And_he_shall_purify_the_sons_of_Levi.ogg.mp3"
 
@@ -77,7 +78,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 8
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 46012
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_08._Behold%2C_a_virgin_shall_conceive.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_08._Behold%2C_a_virgin_shall_conceive.ogg.mp3"
 
@@ -87,7 +87,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 9
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 322010
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_09._O_thou_that_tellest_good_tidings_to_Zion.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_09._O_thou_that_tellest_good_tidings_to_Zion.ogg.mp3"
 
@@ -97,7 +96,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 10
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 249018
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_10._For_behold%2C_darkness_shall_cover_the_earth.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_10._For_behold%2C_darkness_shall_cover_the_earth.ogg.mp3"
 
@@ -107,7 +105,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 11
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 289023
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_11._The_people_that_walked_in_darkness_have_seen_a_great_light.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_11._The_people_that_walked_in_darkness_have_seen_a_great_light.ogg.mp3"
 
@@ -117,7 +114,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 12
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 205820
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_12._For_unto_us_a_child_is_born.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_12._For_unto_us_a_child_is_born.ogg.mp3"
 
@@ -127,7 +123,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 13
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 116217
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_13._Pifa_%28Pastoral_Symphony%29.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_13._Pifa_%28Pastoral_Symphony%29.ogg.mp3"
 
@@ -137,7 +132,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 14
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 26017
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_14._There_were_shepherds_abiding_in_the_fields.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_14._There_were_shepherds_abiding_in_the_fields.ogg.mp3"
 
@@ -147,7 +141,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 15
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 54011
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_15._And_lo%2C_the_angel_of_the_Lord.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_15._And_lo%2C_the_angel_of_the_Lord.ogg.mp3"
 
@@ -157,7 +150,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 16
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 63012
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_16._And_the_angel_said_unto_them.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_16._And_the_angel_said_unto_them.ogg.mp3"
 
@@ -167,7 +159,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 17
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 15803
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_17._And_suddenly_there_was_with_the_angel.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_17._And_suddenly_there_was_with_the_angel.ogg.mp3"
 
@@ -177,7 +168,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 18
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 134219
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/52/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_18._Glory_to_God_in_the_highest.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_18._Glory_to_God_in_the_highest.ogg.mp3"
 
@@ -187,7 +177,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 19
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 263011
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_19._Rejoice_greatly%2C_O_daughter_of_Zion.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_19._Rejoice_greatly%2C_O_daughter_of_Zion.ogg.mp3"
 
@@ -197,7 +186,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 20
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 41008
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_20._Then_shall_the_eyes_of_the_blind_be_opened.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_20._Then_shall_the_eyes_of_the_blind_be_opened.ogg.mp3"
 
@@ -207,7 +195,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 21
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 345015
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_21._He_shall_feed_his_flock_like_a_shepherd.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_21._He_shall_feed_his_flock_like_a_shepherd.ogg.mp3"
 
@@ -217,7 +204,6 @@ composer = "George Frideric Handel"
 part = "Part I"
 track = 22
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 136015
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d5/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_22._His_yoke_is_easy.ogg/Handel_-_Messiah%2C_Part_1_%28Scherchen%29_-_22._His_yoke_is_easy.ogg.mp3"
 
@@ -227,7 +213,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 23
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 262010
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_23._Behold_the_Lamb_of_God.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_23._Behold_the_Lamb_of_God.ogg.mp3"
 
@@ -237,7 +222,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 24
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 586006
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_24._He_was_despised_and_rejected_of_men.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_24._He_was_despised_and_rejected_of_men.ogg.mp3"
 
@@ -247,7 +231,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 25
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 247021
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_25._Surely_he_hath_borne_our_griefs_and_carried_our_sorrows.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_25._Surely_he_hath_borne_our_griefs_and_carried_our_sorrows.ogg.mp3"
 
@@ -257,7 +240,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 26
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 243007
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/eb/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_26._And_with_his_stripes_we_are_healed.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_26._And_with_his_stripes_we_are_healed.ogg.mp3"
 
@@ -267,7 +249,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 27
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 303016
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_27._All_we_like_sheep_have_gone_astray.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_27._All_we_like_sheep_have_gone_astray.ogg.mp3"
 
@@ -277,7 +258,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 28
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 86002
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_28._All_they_that_see_him_laugh_to_scorn.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_28._All_they_that_see_him_laugh_to_scorn.ogg.mp3"
 
@@ -287,7 +267,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 29
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 134007
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_29._He_trusted_in_God_that_he_would_deliver_him.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_29._He_trusted_in_God_that_he_would_deliver_him.ogg.mp3"
 
@@ -297,7 +276,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 30
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 125012
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_30._Thy_rebuke_hath_broken_his_heart.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_30._Thy_rebuke_hath_broken_his_heart.ogg.mp3"
 
@@ -307,7 +285,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 31
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 100004
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/05/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_31._Behold_and_see_if_there_be_any_sorrow.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_31._Behold_and_see_if_there_be_any_sorrow.ogg.mp3"
 
@@ -317,7 +294,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 32
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 26005
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_32._He_was_cut_off.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_32._He_was_cut_off.ogg.mp3"
 
@@ -327,7 +303,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 33
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 173005
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_33._But_thou_didst_not_leave_his_soul_in_hell.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_33._But_thou_didst_not_leave_his_soul_in_hell.ogg.mp3"
 
@@ -337,7 +312,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 34
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 206000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_34._Lift_up_your_heads%2C_O_ye_gates.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_34._Lift_up_your_heads%2C_O_ye_gates.ogg.mp3"
 
@@ -347,7 +321,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 35
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 26019
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_35._Unto_which_of_the_angels.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_35._Unto_which_of_the_angels.ogg.mp3"
 
@@ -357,7 +330,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 36
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 83001
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_36._Let_all_the_angels_of_God_worship_Him.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_36._Let_all_the_angels_of_God_worship_Him.ogg.mp3"
 
@@ -367,7 +339,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 37
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 359008
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_37._Thou_art_gone_up_on_high.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_37._Thou_art_gone_up_on_high.ogg.mp3"
 
@@ -377,7 +348,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 38
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 60019
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_38._The_Lord_gave_the_word.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_38._The_Lord_gave_the_word.ogg.mp3"
 
@@ -387,7 +357,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 39
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 149018
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_39._How_beautiful_are_the_feet.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_39._How_beautiful_are_the_feet.ogg.mp3"
 
@@ -397,7 +366,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 40
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 187012
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_40._Their_sound_is_gone_out.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_40._Their_sound_is_gone_out.ogg.mp3"
 
@@ -407,7 +375,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 41
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 154307
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_41._Why_do_the_nations_so_furiously_rage_together.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_41._Why_do_the_nations_so_furiously_rage_together.ogg.mp3"
 
@@ -417,7 +384,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 42
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 110708
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_42._Let_us_break_their_bonds_asunder.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_42._Let_us_break_their_bonds_asunder.ogg.mp3"
 
@@ -427,7 +393,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 43
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 21007
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_43._He_that_dwelleth_in_heaven.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_43._He_that_dwelleth_in_heaven.ogg.mp3"
 
@@ -437,7 +402,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 44
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 127000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_44._Thou_shalt_break_them_with_a_rod_of_iron.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_44._Thou_shalt_break_them_with_a_rod_of_iron.ogg.mp3"
 
@@ -447,7 +411,6 @@ composer = "George Frideric Handel"
 part = "Part II"
 track = 45
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 201017
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_45._Hallelujah.ogg/Handel_-_Messiah%2C_Part_2_%28Scherchen%29_-_45._Hallelujah.ogg.mp3"
 
@@ -457,7 +420,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 46
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 604002
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_46._I_know_that_my_Redeemer_liveth.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_46._I_know_that_my_Redeemer_liveth.ogg.mp3"
 
@@ -467,7 +429,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 47
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 140012
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_47._Since_by_man_came_death.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_47._Since_by_man_came_death.ogg.mp3"
 
@@ -477,7 +438,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 48
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 48020
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_48._Behold%2C_I_tell_you_a_mystery.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_48._Behold%2C_I_tell_you_a_mystery.ogg.mp3"
 
@@ -487,7 +447,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 49
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 535010
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_49._The_trumpet_shall_sound.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_49._The_trumpet_shall_sound.ogg.mp3"
 
@@ -497,7 +456,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 50
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 17010
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_50._Then_shall_be_brought_to_pass.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_50._Then_shall_be_brought_to_pass.ogg.mp3"
 
@@ -507,7 +465,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 51
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 54023
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_51._O_death%2C_where_is_thy_sting.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_51._O_death%2C_where_is_thy_sting.ogg.mp3"
 
@@ -517,7 +474,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 52
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 121018
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_52._But_thanks_be_to_God.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_52._But_thanks_be_to_God.ogg.mp3"
 
@@ -527,7 +483,6 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 53
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 466023
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_53._If_God_be_for_us%2C_who_can_be_against_us.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_53._If_God_be_for_us%2C_who_can_be_against_us.ogg.mp3"
 
@@ -537,6 +492,5 @@ composer = "George Frideric Handel"
 part = "Part III"
 track = 54
 catalogue = "HWV 56"
-performer = "London Symphony Orchestra, Hermann Scherchen"
 ms = 606901
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_54._Worthy_is_the_Lamb._Amen.ogg/Handel_-_Messiah%2C_Part_3_%28Scherchen%29_-_54._Worthy_is_the_Lamb._Amen.ogg.mp3"

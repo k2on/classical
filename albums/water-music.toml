@@ -7,10 +7,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 2 in D major"
 track = 12
 catalogue = "HWV 349"
-performer = "United States Marine Band"
 bpm = 120
 ms = 229000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Minuet"
@@ -18,10 +21,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 2 in D major"
 track = 13
 catalogue = "HWV 349"
-performer = "United States Marine Band"
 bpm = 120
 ms = 195000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/Handel%27s_Water_Music_-_13._Minuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_13._Minuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Lentement"
@@ -29,10 +35,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 2 in D major"
 track = 14
 catalogue = "HWV 349"
-performer = "United States Marine Band"
 bpm = 60
 ms = 136000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Handel%27s_Water_Music_-_14._Lentement_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_14._Lentement_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Bourrée"
@@ -40,10 +49,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 2 in D major"
 track = 15
 catalogue = "HWV 349"
-performer = "United States Marine Band"
 bpm = 132
 ms = 76000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/Handel%27s_Water_Music_-_15._Bourree_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_15._Bourree_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Sarabande"
@@ -51,10 +63,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 3 in G major"
 track = 16
 catalogue = "HWV 350"
-performer = "United States Marine Band"
 bpm = 60
 ms = 168000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Handel%27s_Water_Music_-_16._Sarabande_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_16._Sarabande_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Rigaudon"
@@ -62,10 +77,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 3 in G major"
 track = 17
 catalogue = "HWV 350"
-performer = "United States Marine Band"
 bpm = 132
 ms = 156000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Handel%27s_Water_Music_-_17._%26_18._Rigaudon_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_17._%26_18._Rigaudon_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Menuet"
@@ -73,10 +91,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 3 in G major"
 track = 19
 catalogue = "HWV 350"
-performer = "United States Marine Band"
 bpm = 120
 ms = 227000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/Handel%27s_Water_Music_-_19._%26_20._Menuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_19._%26_20._Menuet_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Gigue"
@@ -84,10 +105,13 @@ composer = "George Frideric Handel"
 part = "Suite No. 3 in G major"
 track = 21
 catalogue = "HWV 350"
-performer = "United States Marine Band"
 bpm = 120
 ms = 85000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Handel%27s_Water_Music_-_21._%26_22._Gigue_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_21._%26_22._Gigue_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3"
+
+[[track.performer]]
+name = "United States Marine Band"
+role = "ensemble"
 
 [[track]]
 title = "Overture"

@@ -1,0 +1,7 @@
+name = "Johann Sebastian Bach"
+sort_name = "Bach, Johann Sebastian"
+born = 1685
+died = 1750
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johann_Sebastian_Bach_1746.jpg/960px-Johann_Sebastian_Bach_1746.jpg"
+description = "German composer and organist who spent most of his career in Weimar, Köthen and, from 1723, Leipzig, as cantor of St Thomas. His keyboard, organ, choral and orchestral music sums up the Baroque, and his counterpoint has been studied by every generation since."

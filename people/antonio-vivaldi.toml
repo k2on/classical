@@ -1,0 +1,8 @@
+name = "Antonio Vivaldi"
+sort_name = "Vivaldi, Antonio"
+born = 1678
+died = 1741
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vivaldi.jpg/960px-Vivaldi.jpg"
+banner = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canaletto_-_The_Grand_Canal_with_S._Maria_della_Salute_towards_the_Riva_degli_Schiavoni_RCIN_400520.jpg/1920px-Canaletto_-_The_Grand_Canal_with_S._Maria_della_Salute_towards_the_Riva_degli_Schiavoni_RCIN_400520.jpg"
+description = "Venetian composer, violinist and priest, nicknamed \"the Red Priest\" for his hair. He wrote hundreds of concertos, many for the girls of the Ospedale della Pietà orphanage where he taught, and his three-movement fast–slow–fast form shaped the Baroque concerto."

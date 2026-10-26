@@ -1,4 +1,10 @@
 name = "The Well-Tempered Clavier"
+year = 2015
+
+[[performer]]
+name = "Kimiko Ishizaka"
+role = "soloist"
+instrument = "Piano"
 
 [[track]]
 title = "Prelude No. 1 in C major"
@@ -6,7 +12,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 1
 catalogue = "BWV 846"
-performer = "Kimiko Ishizaka"
 ms = 163000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_01_Prelude_No._1_in_C_major%2C_BWV_846.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_01_Prelude_No._1_in_C_major%2C_BWV_846.flac.mp3"
 
@@ -16,7 +21,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 2
 catalogue = "BWV 846"
-performer = "Kimiko Ishizaka"
 ms = 116000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_02_Fugue_No._1_in_C_major%2C_BWV_846.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_02_Fugue_No._1_in_C_major%2C_BWV_846.ogg.mp3"
 
@@ -26,7 +30,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 3
 catalogue = "BWV 847"
-performer = "Kimiko Ishizaka"
 ms = 107000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_03_Prelude_No._2_in_C_minor%2C_BWV_847.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_03_Prelude_No._2_in_C_minor%2C_BWV_847.ogg.mp3"
 
@@ -36,7 +39,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 4
 catalogue = "BWV 847"
-performer = "Kimiko Ishizaka"
 ms = 116000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_04_Fugue_No._2_in_C_minor%2C_BWV_847.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_04_Fugue_No._2_in_C_minor%2C_BWV_847.ogg.mp3"
 
@@ -46,7 +48,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 5
 catalogue = "BWV 848"
-performer = "Kimiko Ishizaka"
 ms = 75000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7f/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_05_Prelude_No._3_in_C-sharp_major%2C_BWV_848.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_05_Prelude_No._3_in_C-sharp_major%2C_BWV_848.flac.mp3"
 
@@ -56,7 +57,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 6
 catalogue = "BWV 848"
-performer = "Kimiko Ishizaka"
 ms = 155000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_06_Fugue_No._3_in_C-sharp_major%2C_BWV_848.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_06_Fugue_No._3_in_C-sharp_major%2C_BWV_848.ogg.mp3"
 
@@ -66,7 +66,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 7
 catalogue = "BWV 849"
-performer = "Kimiko Ishizaka"
 ms = 178000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_07_Prelude_No._4_in_C-sharp_minor%2C_BWV_849.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_07_Prelude_No._4_in_C-sharp_minor%2C_BWV_849.flac.mp3"
 
@@ -76,7 +75,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 8
 catalogue = "BWV 849"
-performer = "Kimiko Ishizaka"
 ms = 161000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_08_Fugue_No._4_in_C-sharp_minor%2C_BWV_849.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_08_Fugue_No._4_in_C-sharp_minor%2C_BWV_849.ogg.mp3"
 
@@ -86,7 +84,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 9
 catalogue = "BWV 850"
-performer = "Kimiko Ishizaka"
 ms = 93000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_09_Prelude_No._5_in_D_major%2C_BWV_850.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_09_Prelude_No._5_in_D_major%2C_BWV_850.flac.mp3"
 
@@ -96,7 +93,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 10
 catalogue = "BWV 850"
-performer = "Kimiko Ishizaka"
 ms = 108000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_10_Fugue_No._5_in_D_major%2C_BWV_850.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_10_Fugue_No._5_in_D_major%2C_BWV_850.ogg.mp3"
 
@@ -106,7 +102,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 11
 catalogue = "BWV 851"
-performer = "Kimiko Ishizaka"
 ms = 98000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/71/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_11_Prelude_No._6_in_D_minor%2C_BWV_851.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_11_Prelude_No._6_in_D_minor%2C_BWV_851.ogg.mp3"
 
@@ -116,7 +111,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 12
 catalogue = "BWV 851"
-performer = "Kimiko Ishizaka"
 ms = 129000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_12_Fugue_No._6_in_D_minor%2C_BWV_851.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_12_Fugue_No._6_in_D_minor%2C_BWV_851.flac.mp3"
 
@@ -126,7 +120,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 13
 catalogue = "BWV 852"
-performer = "Kimiko Ishizaka"
 ms = 214000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_13_Prelude_No._7_in_E-flat_major%2C_BWV_852.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_13_Prelude_No._7_in_E-flat_major%2C_BWV_852.ogg.mp3"
 
@@ -136,7 +129,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 14
 catalogue = "BWV 852"
-performer = "Kimiko Ishizaka"
 ms = 109000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_14_Fugue_No._7_in_E-flat_major%2C_BWV_852.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_14_Fugue_No._7_in_E-flat_major%2C_BWV_852.ogg.mp3"
 
@@ -146,7 +138,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 15
 catalogue = "BWV 853"
-performer = "Kimiko Ishizaka"
 ms = 238000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/35/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_15_Prelude_No._8_in_E-flat_minor%2C_BWV_853.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_15_Prelude_No._8_in_E-flat_minor%2C_BWV_853.ogg.mp3"
 
@@ -156,7 +147,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 16
 catalogue = "BWV 853"
-performer = "Kimiko Ishizaka"
 ms = 235000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b2/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_16_Fugue_No._8_in_D-sharp_minor%2C_BWV_853.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_16_Fugue_No._8_in_D-sharp_minor%2C_BWV_853.flac.mp3"
 
@@ -166,7 +156,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 17
 catalogue = "BWV 854"
-performer = "Kimiko Ishizaka"
 ms = 105000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_17_Prelude_No._9_in_E_major%2C_BWV_854.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_17_Prelude_No._9_in_E_major%2C_BWV_854.ogg.mp3"
 
@@ -176,7 +165,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 18
 catalogue = "BWV 854"
-performer = "Kimiko Ishizaka"
 ms = 81000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_18_Fugue_No._9_in_E_major%2C_BWV_854.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_18_Fugue_No._9_in_E_major%2C_BWV_854.ogg.mp3"
 
@@ -186,7 +174,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 19
 catalogue = "BWV 855"
-performer = "Kimiko Ishizaka"
 ms = 121000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_19_Prelude_No._10_in_E_minor%2C_BWV_855.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_19_Prelude_No._10_in_E_minor%2C_BWV_855.flac.mp3"
 
@@ -196,7 +183,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 20
 catalogue = "BWV 855"
-performer = "Kimiko Ishizaka"
 ms = 90000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_20_Fugue_No._10_in_E_minor%2C_BWV_855.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_20_Fugue_No._10_in_E_minor%2C_BWV_855.flac.mp3"
 
@@ -206,7 +192,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 21
 catalogue = "BWV 856"
-performer = "Kimiko Ishizaka"
 ms = 64000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_21_Prelude_No._11_in_F_major%2C_BWV_856.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_21_Prelude_No._11_in_F_major%2C_BWV_856.ogg.mp3"
 
@@ -216,7 +201,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 22
 catalogue = "BWV 856"
-performer = "Kimiko Ishizaka"
 ms = 87000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_22_Fugue_No._11_in_F_major%2C_BWV_856.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_22_Fugue_No._11_in_F_major%2C_BWV_856.flac.mp3"
 
@@ -226,7 +210,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 23
 catalogue = "BWV 857"
-performer = "Kimiko Ishizaka"
 ms = 173000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_23_Prelude_No._12_in_F_minor%2C_BWV_857.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_23_Prelude_No._12_in_F_minor%2C_BWV_857.flac.mp3"
 
@@ -236,7 +219,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 24
 catalogue = "BWV 857"
-performer = "Kimiko Ishizaka"
 ms = 237000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_24_Fugue_No._12_in_F_minor%2C_BWV_857.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_24_Fugue_No._12_in_F_minor%2C_BWV_857.ogg.mp3"
 
@@ -246,7 +228,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 25
 catalogue = "BWV 858"
-performer = "Kimiko Ishizaka"
 ms = 100000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_25_Prelude_No._13_in_F-sharp_major%2C_BWV_858.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_25_Prelude_No._13_in_F-sharp_major%2C_BWV_858.ogg.mp3"
 
@@ -256,7 +237,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 26
 catalogue = "BWV 858"
-performer = "Kimiko Ishizaka"
 ms = 126000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_26_Fugue_No._13_in_F-sharp_major%2C_BWV_858.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_26_Fugue_No._13_in_F-sharp_major%2C_BWV_858.flac.mp3"
 
@@ -266,7 +246,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 27
 catalogue = "BWV 859"
-performer = "Kimiko Ishizaka"
 ms = 65000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_27_Prelude_No._14_in_F-sharp_minor%2C_BWV_859.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_27_Prelude_No._14_in_F-sharp_minor%2C_BWV_859.flac.mp3"
 
@@ -276,7 +255,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 28
 catalogue = "BWV 859"
-performer = "Kimiko Ishizaka"
 ms = 196000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_28_Fugue_No._14_in_F-sharp_minor%2C_BWV_859.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_28_Fugue_No._14_in_F-sharp_minor%2C_BWV_859.ogg.mp3"
 
@@ -286,7 +264,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 29
 catalogue = "BWV 860"
-performer = "Kimiko Ishizaka"
 ms = 55000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/32/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_29_Prelude_No._15_in_G_major%2C_BWV_860.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_29_Prelude_No._15_in_G_major%2C_BWV_860.flac.mp3"
 
@@ -296,7 +273,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 30
 catalogue = "BWV 860"
-performer = "Kimiko Ishizaka"
 ms = 156000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1b/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_30_Fugue_No._15_in_G_major%2C_BWV_860.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_30_Fugue_No._15_in_G_major%2C_BWV_860.flac.mp3"
 
@@ -306,7 +282,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 31
 catalogue = "BWV 861"
-performer = "Kimiko Ishizaka"
 ms = 134000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_31_Prelude_No._16_in_G_minor%2C_BWV_861.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_31_Prelude_No._16_in_G_minor%2C_BWV_861.flac.mp3"
 
@@ -316,7 +291,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 32
 catalogue = "BWV 861"
-performer = "Kimiko Ishizaka"
 ms = 113000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_32_Fugue_No._16_in_G_minor%2C_BWV_861.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_32_Fugue_No._16_in_G_minor%2C_BWV_861.ogg.mp3"
 
@@ -326,7 +300,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 33
 catalogue = "BWV 862"
-performer = "Kimiko Ishizaka"
 ms = 93000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_33_Prelude_No._17_in_A-flat_major%2C_BWV_862.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_33_Prelude_No._17_in_A-flat_major%2C_BWV_862.flac.mp3"
 
@@ -336,7 +309,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 34
 catalogue = "BWV 862"
-performer = "Kimiko Ishizaka"
 ms = 120000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_34_Fugue_No._17_in_A-flat_major%2C_BWV_862.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_34_Fugue_No._17_in_A-flat_major%2C_BWV_862.flac.mp3"
 
@@ -346,7 +318,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 35
 catalogue = "BWV 863"
-performer = "Kimiko Ishizaka"
 ms = 122000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fd/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_35_Prelude_No._18_in_G-sharp_minor%2C_BWV_863.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_35_Prelude_No._18_in_G-sharp_minor%2C_BWV_863.flac.mp3"
 
@@ -356,7 +327,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 36
 catalogue = "BWV 863"
-performer = "Kimiko Ishizaka"
 ms = 137000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_36_Fugue_No._18_in_G-sharp_minor%2C_BWV_863.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_36_Fugue_No._18_in_G-sharp_minor%2C_BWV_863.ogg.mp3"
 
@@ -366,7 +336,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 37
 catalogue = "BWV 864"
-performer = "Kimiko Ishizaka"
 ms = 91000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_37_Prelude_No._19_in_A_major%2C_BWV_864.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_37_Prelude_No._19_in_A_major%2C_BWV_864.flac.mp3"
 
@@ -376,7 +345,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 38
 catalogue = "BWV 864"
-performer = "Kimiko Ishizaka"
 ms = 117000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/55/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_38_Fugue_No._19_in_A_major%2C_BWV_864.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_38_Fugue_No._19_in_A_major%2C_BWV_864.flac.mp3"
 
@@ -386,7 +354,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 39
 catalogue = "BWV 865"
-performer = "Kimiko Ishizaka"
 ms = 85000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_39_Prelude_No._20_in_A_minor%2C_BWV_865.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_39_Prelude_No._20_in_A_minor%2C_BWV_865.ogg.mp3"
 
@@ -396,7 +363,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 40
 catalogue = "BWV 865"
-performer = "Kimiko Ishizaka"
 ms = 245000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_40_Fugue_No._20_in_A_minor%2C_BWV_865.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_40_Fugue_No._20_in_A_minor%2C_BWV_865.ogg.mp3"
 
@@ -406,7 +372,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 41
 catalogue = "BWV 866"
-performer = "Kimiko Ishizaka"
 ms = 79000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_41_Prelude_No._21_in_B-flat_major%2C_BWV_866.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_41_Prelude_No._21_in_B-flat_major%2C_BWV_866.flac.mp3"
 
@@ -416,7 +381,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 42
 catalogue = "BWV 866"
-performer = "Kimiko Ishizaka"
 ms = 116000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/57/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_42_Fugue_No._21_in_B-flat_major%2C_BWV_866.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_42_Fugue_No._21_in_B-flat_major%2C_BWV_866.ogg.mp3"
 
@@ -426,7 +390,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 43
 catalogue = "BWV 867"
-performer = "Kimiko Ishizaka"
 ms = 148000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_43_Prelude_No._22_in_B-flat_minor%2C_BWV_867.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_43_Prelude_No._22_in_B-flat_minor%2C_BWV_867.flac.mp3"
 
@@ -436,7 +399,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 44
 catalogue = "BWV 867"
-performer = "Kimiko Ishizaka"
 ms = 198000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_44_Fugue_No._22_in_B-flat_minor%2C_BWV_867.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_44_Fugue_No._22_in_B-flat_minor%2C_BWV_867.ogg.mp3"
 
@@ -446,7 +408,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 45
 catalogue = "BWV 868"
-performer = "Kimiko Ishizaka"
 ms = 60000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fb/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_45_Prelude_No._23_in_B_major%2C_BWV_868.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_45_Prelude_No._23_in_B_major%2C_BWV_868.flac.mp3"
 
@@ -456,7 +417,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 46
 catalogue = "BWV 868"
-performer = "Kimiko Ishizaka"
 ms = 109000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_46_Fugue_No._23_in_B_major%2C_BWV_868.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_46_Fugue_No._23_in_B_major%2C_BWV_868.ogg.mp3"
 
@@ -466,7 +426,6 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 47
 catalogue = "BWV 869"
-performer = "Kimiko Ishizaka"
 ms = 148000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_47_Prelude_No._24_in_B_minor%2C_BWV_869.flac/Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier%2C_Book_1_-_47_Prelude_No._24_in_B_minor%2C_BWV_869.flac.mp3"
 
@@ -476,6 +435,5 @@ composer = "Johann Sebastian Bach"
 part = "Book I"
 track = 48
 catalogue = "BWV 869"
-performer = "Kimiko Ishizaka"
 ms = 482000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_48_Fugue_No._24_in_B_minor%2C_BWV_869.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_48_Fugue_No._24_in_B_minor%2C_BWV_869.ogg.mp3"

@@ -2,7 +2,8 @@
 
 Classical recordings that are free to download, with what they are: the
 work, who wrote it and who played it, pictures and short descriptions. The
-data is hand-written TOML; every push to `main` builds it into one file,
+data is hand-written TOML, one file per thing; every push to `main` builds
+it into one file,
 
     https://k2on.github.io/classical/catalogue.json
 
@@ -11,29 +12,35 @@ imports, and what its demo is made of.
 
 ## The files
 
-- `people.toml`: one `[[person]]` per composer or performer. `name`,
-  `sort_name`, `born`, `died`, `kinds` (`composer`, `pianist`, `violinist`,
-  `conductor`, `orchestra`, `ensemble`, …), `art` (a portrait), `banner` (a
-  wide picture for their page) and `description`.
-- `works.toml`: one `[[work]]` per work. `composer`, `catalogue` (`BWV 988`,
-  unique across the file), `title`, `form`, `period`, `key_sig`, `composed`
-  (a year) and `description`.
-- `credits.toml`: one `[[credit]]` per person on a recording, splitting the
-  performer string a track carries into who did what: `performer` (as the
-  tracks spell it), `name`, `role` (`orchestra`, `ensemble`, `conductor`,
-  `soloist`, `artist`), `instrument` and `pos` (billing order).
-- `albums/<album>.toml`: an album's `name` and `art`, and one `[[track]]` per
-  track: `title`, `composer`, `part`, `track`, `catalogue`, `performer`,
-  `licence`, `bpm`, `ms` (its length) and `file` (where to download it).
+- `people/<name>.toml`: one person — a composer or a performer, an orchestra
+  or an ensemble the same. `name`, `sort_name`, `born`, `died`, `kinds`
+  (`composer`, `pianist`, `violinist`, `conductor`, `orchestra`, `ensemble`,
+  …), `art` (a portrait), `banner` (a wide picture for their page),
+  `art_credit` and `banner_credit` (who made a picture and its licence, for
+  one that asks to be credited) and `description`.
+- `works/<composer>/<number>.toml`: one work, by the composer whose
+  `people/<composer>.toml` its directory is named after. `catalogue` (`BWV
+  988`, unique across all the works), `title`, `form`, `period`, `key_sig`,
+  `composed` (a year) and `description`.
+- `albums/<album>.toml`: an album's `name`, `art` and `year` (when it came
+  out, or its recordings were made); its `[[performer]]`s,
+  who played every track on it, each a person's `name`, their `role`
+  (`orchestra`, `ensemble`, `conductor`, `soloist`, `artist`) and
+  `instrument`, in billing order; and one `[[track]]` per track: `title`,
+  `composer`, `part`, `track`, `catalogue`, `licence`, `bpm`, `ms` (its
+  length) and `file` (where to download it). A track played by others than
+  the album's names its own, as `[[track.performer]]`s after it.
 
 A field nobody knows is left out. `nix build` makes `result`, the JSON;
-`nix flake check` is what the push runs, and fails on a composer or work
-that is not in its file, a licence that is not public domain, CC0, CC BY or
-CC BY-SA, or a URL that is not https.
+`nix flake check` is what the push runs, and fails on a composer, performer
+or work that has no file, a performer without a role, a name or catalogue
+number used twice, a licence that is not public domain, CC0, CC BY or CC
+BY-SA, or a URL that is not https.
 
 ## Licences
 
 Every recording is public domain or under the licence its `licence` field
 names (empty is public domain or no rights reserved), as its source says.
-The pictures are public-domain images on Wikimedia Commons. The data
-itself — the files here, descriptions included — is [CC0](LICENSE).
+The pictures are on Wikimedia Commons: public domain, or under the licence
+their `art_credit` or `banner_credit` names. The data itself — the files
+here, descriptions included — is [CC0](LICENSE).

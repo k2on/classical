@@ -1,0 +1,7 @@
+name = "Frédéric Chopin"
+sort_name = "Chopin, Frédéric"
+born = 1810
+died = 1849
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png/960px-Fr%C3%A9d%C3%A9ric_Chopin_by_Bisson%2C_1849.png"
+description = "Polish composer and pianist who settled in Paris in 1831. Almost everything he wrote is for solo piano — ballades, nocturnes, études, mazurkas and polonaises — and it changed what the instrument could sing."

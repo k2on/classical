@@ -1,11 +1,14 @@
 name = "Music for the Royal Fireworks"
 
+[[performer]]
+name = "Paul Ayres"
+role = "soloist"
+
 [[track]]
 title = "I. Overture"
 composer = "George Frideric Handel"
 track = 1
 catalogue = "HWV 351"
-performer = "Paul Ayres"
 ms = 135941
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_I._Overture.ogg/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_I._Overture.ogg.mp3"
 
@@ -14,7 +17,6 @@ title = "II. Bourrée"
 composer = "George Frideric Handel"
 track = 2
 catalogue = "HWV 351"
-performer = "Paul Ayres"
 bpm = 120
 ms = 84088
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_II._Bourr%C3%A9e.ogg/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_II._Bourr%C3%A9e.ogg.mp3"
@@ -24,7 +26,6 @@ title = "III. La Paix"
 composer = "George Frideric Handel"
 track = 3
 catalogue = "HWV 351"
-performer = "Paul Ayres"
 bpm = 80
 ms = 163605
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_III._La_Paix.ogg/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_III._La_Paix.ogg.mp3"
@@ -34,7 +35,6 @@ title = "IV. La Réjouissance"
 composer = "George Frideric Handel"
 track = 4
 catalogue = "HWV 351"
-performer = "Paul Ayres"
 bpm = 132
 ms = 98717
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_IV._La_R%C3%A9jouissance.ogg/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_IV._La_R%C3%A9jouissance.ogg.mp3"
@@ -44,7 +44,6 @@ title = "V. Menuet"
 composer = "George Frideric Handel"
 track = 5
 catalogue = "HWV 351"
-performer = "Paul Ayres"
 bpm = 120
 ms = 115827
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_V._Menuet.ogg/Paul_Ayres_-_Handel%27s_Music_for_the_Royal_Fireworks%2C_HWV_351_-_V._Menuet.ogg.mp3"

@@ -1,0 +1,7 @@
+name = "George Frideric Handel"
+sort_name = "Handel, George Frideric"
+born = 1685
+died = 1759
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/960px-George_Frideric_Handel_by_Balthasar_Denner.jpg"
+description = "German-born composer who made his career in London, writing Italian operas for the stage and then English oratorios such as Messiah. He became a British subject in 1727 and is buried in Westminster Abbey."

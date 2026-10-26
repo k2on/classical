@@ -1,0 +1,7 @@
+name = "Ludwig van Beethoven"
+sort_name = "Beethoven, Ludwig van"
+born = 1770
+died = 1827
+kinds = ["composer"]
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"
+description = "Composer and pianist born in Bonn who settled in Vienna. His nine symphonies, 32 piano sonatas and string quartets bridge the Classical and Romantic eras, and he kept composing after he had lost his hearing."

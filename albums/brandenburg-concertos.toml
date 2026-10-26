@@ -6,11 +6,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 1 in F major, BWV 1046"
 track = 1
 catalogue = "BWV 1046"
-performer = "Busch Chamber Players"
 licence = "CC BY 3.0"
 bpm = 138
 ms = 276452
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/Bach_-_Brandenburg_Concerto_No._1_-_1._Allegro.ogg/Bach_-_Brandenburg_Concerto_No._1_-_1._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Busch Chamber Players"
+role = "ensemble"
 
 [[track]]
 title = "II. Adagio"
@@ -18,11 +21,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 1 in F major, BWV 1046"
 track = 2
 catalogue = "BWV 1046"
-performer = "Busch Chamber Players"
 licence = "CC BY-SA 3.0"
 bpm = 71
 ms = 281967
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Bach_-_Brandenburg_Concerto.No.1_in_F_Major-_II._Adagio.ogg/Bach_-_Brandenburg_Concerto.No.1_in_F_Major-_II._Adagio.ogg.mp3"
+
+[[track.performer]]
+name = "Busch Chamber Players"
+role = "ensemble"
 
 [[track]]
 title = "III. Allegro"
@@ -30,11 +36,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 1 in F major, BWV 1046"
 track = 3
 catalogue = "BWV 1046"
-performer = "Busch Chamber Players"
 licence = "CC BY-SA 3.0"
 bpm = 138
 ms = 272877
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/18/Bach_-_Brandenburg_Concerto.No._1_in_F_Major-_III._Allegro.ogg/Bach_-_Brandenburg_Concerto.No._1_in_F_Major-_III._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Busch Chamber Players"
+role = "ensemble"
 
 [[track]]
 title = "IV. Menuetto - Trio - Polacca"
@@ -42,11 +51,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 1 in F major, BWV 1046"
 track = 4
 catalogue = "BWV 1046"
-performer = "Busch Chamber Players"
 licence = "CC BY-SA 3.0"
 bpm = 120
 ms = 480184
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/Bach_-_Brandenburg_Concerto.No.1_in_F_Major-_IV._Menuetto%3B_Trio_1%3B_Menuetto%3B_Polacca%3B_Menuetto_and_Trio.ogg/Bach_-_Brandenburg_Concerto.No.1_in_F_Major-_IV._Menuetto%3B_Trio_1%3B_Menuetto%3B_Polacca%3B_Menuetto_and_Trio.ogg.mp3"
+
+[[track.performer]]
+name = "Busch Chamber Players"
+role = "ensemble"
 
 [[track]]
 title = "I. Allegro"
@@ -54,11 +66,19 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 2 in F major, BWV 1047"
 track = 1
 catalogue = "BWV 1047"
-performer = "Vince DiMartino and the Lexington Bach Choir Orchestra"
 licence = "CC BY 3.0"
 bpm = 138
 ms = 317100
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/IMSLP83563_-_Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29_-_1._%28Allegro%29.ogg/IMSLP83563_-_Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29_-_1._%28Allegro%29.ogg.mp3"
+
+[[track.performer]]
+name = "Vince DiMartino"
+role = "soloist"
+instrument = "Trumpet"
+
+[[track.performer]]
+name = "Lexington Bach Choir Orchestra"
+role = "ensemble"
 
 [[track]]
 title = "II. Andante"
@@ -66,11 +86,19 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 2 in F major, BWV 1047"
 track = 2
 catalogue = "BWV 1047"
-performer = "Vince DiMartino and the Lexington Bach Choir Orchestra"
 licence = "CC BY 3.0"
 bpm = 92
 ms = 197695
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/IMSLP83567_-_Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29_-_2._Andante.ogg/IMSLP83567_-_Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29_-_2._Andante.ogg.mp3"
+
+[[track.performer]]
+name = "Vince DiMartino"
+role = "soloist"
+instrument = "Trumpet"
+
+[[track.performer]]
+name = "Lexington Bach Choir Orchestra"
+role = "ensemble"
 
 [[track]]
 title = "III. Allegro assai"
@@ -78,11 +106,19 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 2 in F major, BWV 1047"
 track = 3
 catalogue = "BWV 1047"
-performer = "Vince DiMartino and the Lexington Bach Choir Orchestra"
 licence = "CC BY 3.0"
 bpm = 144
 ms = 224052
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/IMSLP83569_-_Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29_-_3._Allegro_assai.ogg/IMSLP83569_-_Brandenburg_Concerto_No.2_in_F_major%2C_BWV_1047_%28Bach%2C_Johann_Sebastian%29_-_3._Allegro_assai.ogg.mp3"
+
+[[track.performer]]
+name = "Vince DiMartino"
+role = "soloist"
+instrument = "Trumpet"
+
+[[track.performer]]
+name = "Lexington Bach Choir Orchestra"
+role = "ensemble"
 
 [[track]]
 title = "I. Allegro"
@@ -90,11 +126,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 3 in G major, BWV 1048"
 track = 1
 catalogue = "BWV 1048"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 138
 ms = 319164
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b0/Bach_-_Brandenburg_Concerto_No._3_-_1._Allegro.ogg/Bach_-_Brandenburg_Concerto_No._3_-_1._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "II. Adagio"
@@ -102,11 +141,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 3 in G major, BWV 1048"
 track = 2
 catalogue = "BWV 1048"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 71
 ms = 23613
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/78/Bach_-_Brandenburg_Concerto_No._3_-_2._Adagio.ogg/Bach_-_Brandenburg_Concerto_No._3_-_2._Adagio.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "III. Allegro"
@@ -114,11 +156,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 3 in G major, BWV 1048"
 track = 3
 catalogue = "BWV 1048"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 138
 ms = 273613
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/Bach_-_Brandenburg_Concerto_No._3_-_3._Allegro.ogg/Bach_-_Brandenburg_Concerto_No._3_-_3._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "I. Allegro"
@@ -126,11 +171,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 4 in G major, BWV 1049"
 track = 1
 catalogue = "BWV 1049"
-performer = "Kevin MacLeod"
 licence = "CC BY 3.0"
 bpm = 138
 ms = 437603
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/18/Kevin_MacLeod_-_J_S_Bach_Brandenburg_Concerto_No4-1_BWV1049.ogg/Kevin_MacLeod_-_J_S_Bach_Brandenburg_Concerto_No4-1_BWV1049.ogg.mp3"
+
+[[track.performer]]
+name = "Kevin MacLeod"
+role = "artist"
 
 [[track]]
 title = "II. Andante"
@@ -138,11 +186,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 4 in G major, BWV 1049"
 track = 2
 catalogue = "BWV 1049"
-performer = "Busch Chamber Players"
 licence = "CC BY-SA 3.0"
 bpm = 92
 ms = 275959
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Bach_-_Brandenburg_ConcertoNo._4_in_G_Major-_II._Andante.ogg/Bach_-_Brandenburg_ConcertoNo._4_in_G_Major-_II._Andante.ogg.mp3"
+
+[[track.performer]]
+name = "Busch Chamber Players"
+role = "ensemble"
 
 [[track]]
 title = "III. Presto"
@@ -150,11 +201,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 4 in G major, BWV 1049"
 track = 3
 catalogue = "BWV 1049"
-performer = "Busch Chamber Players"
 licence = "CC BY-SA 3.0"
 bpm = 184
 ms = 256942
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Bach_-_Brandenburg_Concerto.No.4_in_G_Major-_III._Presto.ogg/Bach_-_Brandenburg_Concerto.No.4_in_G_Major-_III._Presto.ogg.mp3"
+
+[[track.performer]]
+name = "Busch Chamber Players"
+role = "ensemble"
 
 [[track]]
 title = "I. Allegro"
@@ -162,11 +216,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 5 in D major, BWV 1050"
 track = 1
 catalogue = "BWV 1050"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 138
 ms = 598533
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/Bach_-_Brandenburg_Concerto_5_-_1._Allegro.ogg/Bach_-_Brandenburg_Concerto_5_-_1._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "II. Affettuoso"
@@ -174,10 +231,13 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 5 in D major, BWV 1050"
 track = 2
 catalogue = "BWV 1050"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 ms = 355960
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/Bach_-_Brandenburg_Concerto_5_-_2._Affettuoso.ogg/Bach_-_Brandenburg_Concerto_5_-_2._Affettuoso.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "III. Allegro"
@@ -185,11 +245,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 5 in D major, BWV 1050"
 track = 3
 catalogue = "BWV 1050"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 138
 ms = 296995
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/Bach_-_Brandenburg_Concerto_5_-_3._Allegro.ogg/Bach_-_Brandenburg_Concerto_5_-_3._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "I. Allegro"
@@ -197,11 +260,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 6 in B-flat major, BWV 1051"
 track = 1
 catalogue = "BWV 1051"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 138
 ms = 340707
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Bach_-_Brandenburg_Concerto_6_-_1._Allegro.ogg/Bach_-_Brandenburg_Concerto_6_-_1._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "II. Adagio ma non tanto"
@@ -209,11 +275,14 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 6 in B-flat major, BWV 1051"
 track = 2
 catalogue = "BWV 1051"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 71
 ms = 312231
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/Bach_-_Brandenburg_Concerto_6_-_2._Adagio.ogg/Bach_-_Brandenburg_Concerto_6_-_2._Adagio.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
 
 [[track]]
 title = "III. Allegro"
@@ -221,8 +290,11 @@ composer = "Johann Sebastian Bach"
 part = "Concerto No. 6 in B-flat major, BWV 1051"
 track = 3
 catalogue = "BWV 1051"
-performer = "Advent Chamber Orchestra"
 licence = "CC BY-SA 2.0"
 bpm = 138
 ms = 335912
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Bach_-_Brandenburg_Concerto_6_-_3._Allegro.ogg/Bach_-_Brandenburg_Concerto_6_-_3._Allegro.ogg.mp3"
+
+[[track.performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
