@@ -41,8 +41,8 @@ number used twice, or a URL that is not https.
 Every recording is public domain or under what its `licence` field names
 (empty is public domain or no rights reserved), as its source says: a
 licence, or for a recording that has none the copyright it is under. A
-composer's or performer's `art` and `banner` are Apple Music's, where it
-has them. The other pictures are mostly on Wikimedia Commons: public
+composer's or performer's `art` and `banner` are Apple Music's where it
+has them, or else Deezer's. The other pictures are mostly on Wikimedia Commons: public
 domain, or under the licence their `art_credit` or `banner_credit` names;
 an album's art may be its sleeve. The data itself — the files
 here, descriptions included — is [CC0](LICENSE).

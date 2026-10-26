@@ -1,5 +1,7 @@
 name = "Daniel Chorzempa"
 sort_name = "Chorzempa, Daniel"
 born = 1944
+died = 2023
 kinds = ["organist"]
+art = "https://cdn-images.dzcdn.net/images/artist/74f1490832efdd86f6e906962012e2c8/1000x1000-000000-80-0-0.jpg"
 description = "American organist, born in Minneapolis, who settled in Germany in the 1960s and made a series of Bach and Handel organ recordings for Philips."

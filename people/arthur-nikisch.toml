@@ -3,4 +3,5 @@ sort_name = "Nikisch, Arthur"
 born = 1855
 died = 1922
 kinds = ["conductor", "pianist"]
+art = "https://cdn-images.dzcdn.net/images/artist/14275722ad0d9f5119fb5235b8446e14/1000x1000-000000-80-0-0.jpg"
 description = "Hungarian conductor who led the Leipzig Gewandhaus Orchestra and the Berlin Philharmonic at the same time, from 1895 until his death. He was also a fine pianist, and in 1906 recorded piano rolls for the Welte-Mignon reproducing piano."
