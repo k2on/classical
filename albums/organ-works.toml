@@ -1,4 +1,11 @@
 name = "Organ Works"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Toccata_and_Fugue_in_D_minor%2C_BWV_565_%28Johannes_Ringk_manuscript%29.jpg/960px-Toccata_and_Fugue_in_D_minor%2C_BWV_565_%28Johannes_Ringk_manuscript%29.jpg"
+year = 2006
+
+[[performer]]
+name = "Ashtar Moïra"
+role = "soloist"
+instrument = "Organ"
 
 [[track]]
 title = "Toccata and Fugue in D minor, BWV 565"

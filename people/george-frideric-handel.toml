@@ -3,5 +3,6 @@ sort_name = "Handel, George Frideric"
 born = 1685
 died = 1759
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/960px-George_Frideric_Handel_by_Balthasar_Denner.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/e6/52/63/e6526327-59cb-27b2-23ec-a7c782ec460b/mza_2290382895065971909.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/d0/cd/6f/d0cd6fd6-0037-dc7d-287a-3b4e24c25afb/81f8d943-837f-41ef-a68f-d937673f2867.png/2400x1200bb.jpg"
 description = "German-born composer who made his career in London, writing Italian operas for the stage and then English oratorios such as Messiah. He became a British subject in 1727 and is buried in Westminster Abbey."

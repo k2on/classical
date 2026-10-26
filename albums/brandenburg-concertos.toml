@@ -1,4 +1,5 @@
 name = "Brandenburg Concertos"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Title_page_of_Brandenburg_Concertos.png/960px-Title_page_of_Brandenburg_Concertos.png"
 
 [[track]]
 title = "I. Allegro"

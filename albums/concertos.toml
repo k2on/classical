@@ -1,4 +1,5 @@
 name = "Concertos"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Portret_van_de_Italiaanse_componist_Antonio_Vivaldi_Effigies_Antonii_Vivaldi_%28titel_op_object%29%2C_RP-P-2016-1496-1.jpg/960px-Portret_van_de_Italiaanse_componist_Antonio_Vivaldi_Effigies_Antonii_Vivaldi_%28titel_op_object%29%2C_RP-P-2016-1496-1.jpg"
 
 [[track]]
 title = "I. Allegro (ma molto moderato)"

@@ -1,4 +1,11 @@
 name = "Suite bergamasque"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Suite_bergamasque_%28pour_piano_par_Claude_Debussy%29_-_btv1b100769278_%2801_of_19%29.jpg/960px-Suite_bergamasque_%28pour_piano_par_Claude_Debussy%29_-_btv1b100769278_%2801_of_19%29.jpg"
+year = 2011
+
+[[performer]]
+name = "Laurens Goedhart"
+role = "soloist"
+instrument = "Piano"
 
 [[track]]
 title = "Clair de lune"

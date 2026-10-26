@@ -3,5 +3,6 @@ sort_name = "Beethoven, Ludwig van"
 born = 1770
 died = 1827
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/bb/96/39/bb96391c-4976-f9a8-3c28-0ab1e4041bab/mza_8199644057490541277.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/67/6e/84/676e84dd-e7c8-9ad9-1559-18ba6377b220/97d8136d-f00c-4e4c-b1ef-3a41197aeea2.png/2400x1200bb.jpg"
 description = "Composer and pianist born in Bonn who settled in Vienna. His nine symphonies, 32 piano sonatas and string quartets bridge the Classical and Romantic eras, and he kept composing after he had lost his hearing."

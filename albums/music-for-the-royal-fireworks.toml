@@ -1,4 +1,6 @@
 name = "Music for the Royal Fireworks"
+art = "https://upload.wikimedia.org/wikipedia/commons/e/e0/A_Perspective_View_of_the_Magnificent_Structure_erected_in_the_Green_Park_for_the_Royal_Fireworks_exhibited_the_27_of_April_1749_on_account_of_the_General_Peace.jpg"
+year = 2011
 
 [[performer]]
 name = "Paul Ayres"

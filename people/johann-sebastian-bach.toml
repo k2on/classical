@@ -3,5 +3,6 @@ sort_name = "Bach, Johann Sebastian"
 born = 1685
 died = 1750
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johann_Sebastian_Bach_1746.jpg/960px-Johann_Sebastian_Bach_1746.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/1e/7c/2c/1e7c2c61-612f-f395-f485-1d34393f76eb/mza_15524077328646909844.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/fb/05/77/fb057737-0956-2364-fc47-be649248e78f/52d9a34d-8628-4936-9760-24ddf28adfd5.png/2400x1200bb.jpg"
 description = "German composer and organist who spent most of his career in Weimar, Köthen and, from 1723, Leipzig, as cantor of St Thomas. His keyboard, organ, choral and orchestral music sums up the Baroque, and his counterpoint has been studied by every generation since."

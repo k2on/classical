@@ -1,4 +1,5 @@
 name = "London Symphony Orchestra"
 kinds = ["orchestra"]
-banner = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/London_Barbican_Hall_LSO_b.jpg/1920px-London_Barbican_Hall_LSO_b.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ff/3a/a5/ff3aa5ba-8084-843b-c82e-43aa04ad9d30/94dd7055-aa2e-4fb8-99d8-77e1fc434cfc_ami-identity-23b575e414bb5b68f611cf2de6aae364-2023-11-13T16-03-29.631Z_cropped.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/41/08/76/41087680-2aa9-c032-6cb6-1a90418a9479/341ea9a9-b849-4f2d-8a9b-d5c30ab55f8f.png/2400x1200bb.jpg"
 description = "London orchestra founded in 1904 as a self-governing company of its players, resident at the Barbican Centre since 1982."

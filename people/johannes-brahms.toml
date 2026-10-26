@@ -3,5 +3,6 @@ sort_name = "Brahms, Johannes"
 born = 1833
 died = 1897
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JohannesBrahms.jpg/960px-JohannesBrahms.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/20/31/a8/2031a80b-eb3b-909c-f62c-a7bc0e9a8b9b/mza_5215437889453616639.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/c4/18/f0/c418f02d-96d5-8b8f-1f69-316dcf419def/4e269c6e-dded-4f0e-9ac8-a44036500bb9.png/2400x1200bb.jpg"
 description = "German composer and pianist who worked mostly in Vienna. He wrote four symphonies, concertos, chamber music, songs and A German Requiem, holding to Classical forms through the Romantic era."

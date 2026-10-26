@@ -3,5 +3,6 @@ sort_name = "Schubert, Franz"
 born = 1797
 died = 1828
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/960px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/9d/f6/ee/9df6ee43-271d-0433-e636-d94547a5c496/mza_605407346986153083.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/e1/d0/44/e1d04425-e63b-e0bf-aa71-bced73dd78ab/e0c07c76-754d-4d72-8b83-126c4cb72d13.png/2400x1200bb.jpg"
 description = "Viennese composer who wrote over six hundred songs as well as symphonies, chamber music and piano works, nearly all of it before his death at thirty-one."

@@ -3,5 +3,6 @@ sort_name = "Debussy, Claude"
 born = 1862
 died = 1918
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg/960px-Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/a2/e0/ec/a2e0ecfa-e5ae-ab64-257c-7be6c95ff6ee/mza_16379219763336011204.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/60/99/0a/60990a11-cef4-44d7-aa8b-55d93ddd4d79/1b493e7a-2225-461f-abdf-d6f7bbb21b9e.png/2400x1200bb.jpg"
 description = "French composer whose harmony and tone colour — whole-tone scales, unresolved chords, music built from sound and atmosphere — opened the way to twentieth-century music. He disliked the label \"Impressionist\" it earned him."

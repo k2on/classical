@@ -1,4 +1,5 @@
 name = "The Four Seasons"
+art = "https://upload.wikimedia.org/wikipedia/commons/7/72/Antonio_Vivaldi%2C_Cimento_dell%27_Armonia_e_dell%27_Inventione%2C_Op._8%2C_ribro_primo.png"
 
 [[performer]]
 name = "The Modena Chamber Orchestra"

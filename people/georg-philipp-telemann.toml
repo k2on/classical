@@ -3,5 +3,6 @@ sort_name = "Telemann, Georg Philipp"
 born = 1681
 died = 1767
 kinds = ["composer"]
-art = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Telemann.jpg"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/4d/7a/06/4d7a06ab-3f43-f9a6-c404-d113e31a9460/mza_3111817613083258479.png/1200x1200bb.jpg"
+banner = "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e8/2e/60/e82e608d-2830-8a66-8738-af0a360738e3/69cc5083-a6dc-4d88-8483-ece40a2d769a.png/2400x1200bb.jpg"
 description = "German composer, among the most prolific in history, who worked in Leipzig and Frankfurt and from 1721 in Hamburg as music director of its five principal churches. Better known in his lifetime than Bach, he was a friend of his and godfather to Carl Philipp Emanuel."

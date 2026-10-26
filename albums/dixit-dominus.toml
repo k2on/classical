@@ -1,4 +1,6 @@
 name = "Dixit Dominus"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vivaldi%2C_Dixit_Dominus_RV_807.png/960px-Vivaldi%2C_Dixit_Dominus_RV_807.png"
+year = 2018
 
 [[performer]]
 name = "Escola Superior de Música de Catalunya"

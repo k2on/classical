@@ -16,3 +16,8 @@ track = 2
 catalogue = "Op. 38"
 ms = 420000
 file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Frederic_Chopin_-_ballade_no._2_in_f_major%2C_op._38.ogg/Frederic_Chopin_-_ballade_no._2_in_f_major%2C_op._38.ogg.mp3"
+
+[[track.performer]]
+name = "Peter Johnston"
+role = "soloist"
+instrument = "Piano"

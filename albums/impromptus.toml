@@ -1,4 +1,11 @@
 name = "Impromptus"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schubert%2C_Impromptus_Op._90%2C_Holograph_manuscript%2C_Page_1.jpg/960px-Schubert%2C_Impromptus_Op._90%2C_Holograph_manuscript%2C_Page_1.jpg"
+year = 2016
+
+[[performer]]
+name = "Andriy Bondarenko"
+role = "soloist"
+instrument = "Piano"
 
 [[track]]
 title = "Impromptu in G-flat major, D. 899"

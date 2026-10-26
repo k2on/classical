@@ -1,4 +1,11 @@
 name = "Hungarian Dances"
+art = "https://upload.wikimedia.org/wikipedia/commons/4/42/Arthur_Nikisch_Vanity_Fair_28_May_1913.jpg"
+year = 1906
+
+[[performer]]
+name = "Arthur Nikisch"
+role = "soloist"
+instrument = "Piano"
 
 [[track]]
 title = "Hungarian Dance No. 5"

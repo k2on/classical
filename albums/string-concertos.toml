@@ -1,4 +1,5 @@
 name = "String Concertos"
+art = "https://upload.wikimedia.org/wikipedia/commons/6/68/Frontespice_Estro_Armonico_Amsterdam_Edition.jpg"
 
 [[track]]
 title = "I. Allegro"
