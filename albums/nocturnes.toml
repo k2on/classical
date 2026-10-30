@@ -2,15 +2,249 @@ name = "Nocturnes"
 art = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nocturne_-_op._9_n%C2%B0_2_-_mi_b%C3%A9mol_majeur_-_piano_-_par_Fr._Chopin_-_btv1b9068992s_%2805_of_14%29.jpg/960px-Nocturne_-_op._9_n%C2%B0_2_-_mi_b%C3%A9mol_majeur_-_piano_-_par_Fr._Chopin_-_btv1b9068992s_%2805_of_14%29.jpg"
 year = 2014
 
-[[performer]]
-name = "Frank Lévy"
+[[track]]
+title = "Nocturne No. 1 in B-flat minor, Op. 9 No. 1"
+composer = "Frédéric Chopin"
+track = 1
+catalogue = "Op. 9 No. 1"
+ms = 337051
+file = "https://upload.wikimedia.org/wikipedia/commons/6/63/Chopin_-_Nocturne_No._1_in_B-flat_minor%2C_Op._9_No._1_%28Olga_Gurevich%29.flac"
+
+[[track.performer]]
+name = "Olga Gurevich"
 role = "soloist"
 instrument = "Piano"
 
 [[track]]
-title = "Nocturne in E-flat major, Op. 9 No. 2"
+title = "Nocturne No. 2 in E-flat major, Op. 9 No. 2"
 composer = "Frédéric Chopin"
 track = 2
 catalogue = "Op. 9 No. 2"
 ms = 271469
 file = "https://upload.wikimedia.org/wikipedia/commons/8/89/Chopin_-_Nocturne_No._2_in_E-flat_major%2C_Op._9_No._2_%28Frank_Levy%29.flac"
+
+[[track.performer]]
+name = "Frank Lévy"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 3 in B major, Op. 9 No. 3"
+composer = "Frédéric Chopin"
+track = 3
+catalogue = "Op. 9 No. 3"
+ms = 417500
+file = "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chopin_-_Nocturne_No._3_in_B_major%2C_Op._9_No._3_%28Xuan_He%29.flac"
+
+[[track.performer]]
+name = "Xuan He"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 4 in F major, Op. 15 No. 1"
+composer = "Frédéric Chopin"
+track = 4
+catalogue = "Op. 15 No. 1"
+ms = 305500
+file = "https://upload.wikimedia.org/wikipedia/commons/4/47/Chopin_-_Nocturne_No._4_in_F_major%2C_Op._15_No._1_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 5 in F-sharp major, Op. 15 No. 2"
+composer = "Frédéric Chopin"
+track = 5
+catalogue = "Op. 15 No. 2"
+ms = 204000
+file = "https://upload.wikimedia.org/wikipedia/commons/9/90/Chopin_-_Nocturne_No._5_in_F-sharp_major%2C_Op._15_No._2_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 7 in C-sharp minor, Op. 27 No. 1"
+composer = "Frédéric Chopin"
+track = 7
+catalogue = "Op. 27 No. 1"
+ms = 351981
+file = "https://upload.wikimedia.org/wikipedia/commons/f/f5/Chopin_-_Nocturne_No._7_in_C-sharp_minor%2C_Op._27_No._1_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 8 in D-flat major, Op. 27 No. 2"
+composer = "Frédéric Chopin"
+track = 8
+catalogue = "Op. 27 No. 2"
+ms = 377770
+file = "https://upload.wikimedia.org/wikipedia/commons/3/31/Chopin_-_Nocturne_No._8_in_D-flat_major%2C_Op._27_No._2_%28Frank_Levy%29.flac"
+
+[[track.performer]]
+name = "Frank Lévy"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 9 in B major, Op. 32 No. 1"
+composer = "Frédéric Chopin"
+track = 9
+catalogue = "Op. 32 No. 1"
+ms = 301039
+file = "https://upload.wikimedia.org/wikipedia/commons/3/33/Chopin_-_Nocturne_No._9_in_B_major%2C_Op._32_No._1_%28Frank_Levy%29.flac"
+
+[[track.performer]]
+name = "Frank Lévy"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 10 in A-flat major, Op. 32 No. 2"
+composer = "Frédéric Chopin"
+track = 10
+catalogue = "Op. 32 No. 2"
+ms = 343156
+file = "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chopin_-_Nocturne_No._10_in_A-flat_major%2C_Op._32_No._2_%28Olga_Gurevich%29.flac"
+
+[[track.performer]]
+name = "Olga Gurevich"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 11 in G minor, Op. 37 No. 1"
+composer = "Frédéric Chopin"
+track = 11
+catalogue = "Op. 37 No. 1"
+ms = 424150
+file = "https://upload.wikimedia.org/wikipedia/commons/9/93/Chopin_-_Nocturne_No._11_in_G_minor%2C_Op._37_No._1_%28Luis_Sarro%29.flac"
+
+[[track.performer]]
+name = "Luis Sarro"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 13 in C minor, Op. 48 No. 1"
+composer = "Frédéric Chopin"
+track = 13
+catalogue = "Op. 48 No. 1"
+ms = 379250
+file = "https://upload.wikimedia.org/wikipedia/commons/f/f8/Chopin_-_Nocturne_No._13_in_C_minor%2C_Op._48_No._1_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 14 in F-sharp minor, Op. 48 No. 2"
+composer = "Frédéric Chopin"
+track = 14
+catalogue = "Op. 48 No. 2"
+ms = 496375
+file = "https://upload.wikimedia.org/wikipedia/commons/8/86/Chopin_-_Nocturne_No._14_in_F-sharp_minor%2C_Op._48_No._2_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 15 in F minor, Op. 55 No. 1"
+composer = "Frédéric Chopin"
+track = 15
+catalogue = "Op. 55 No. 1"
+ms = 316625
+file = "https://upload.wikimedia.org/wikipedia/commons/f/f2/Chopin_-_Nocturne_No._15_in_F_minor%2C_Op._55_No._1_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 16 in E-flat major, Op. 55 No. 2"
+composer = "Frédéric Chopin"
+track = 16
+catalogue = "Op. 55 No. 2"
+ms = 309944
+file = "https://upload.wikimedia.org/wikipedia/commons/4/44/Chopin_-_Nocturne_No._16_in_E-flat_major%2C_Op._55_No._2_%28Xuan_He%29.flac"
+
+[[track.performer]]
+name = "Xuan He"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 17 in B major, Op. 62 No. 1"
+composer = "Frédéric Chopin"
+track = 17
+catalogue = "Op. 62 No. 1"
+ms = 379639
+file = "https://upload.wikimedia.org/wikipedia/commons/3/31/Chopin_-_Nocturne_No._17_in_B_major%2C_Op._62_No._1_%28Olga_Gurevich%29.flac"
+
+[[track.performer]]
+name = "Olga Gurevich"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 18 in E major, Op. 62 No. 2"
+composer = "Frédéric Chopin"
+track = 18
+catalogue = "Op. 62 No. 2"
+ms = 339533
+file = "https://upload.wikimedia.org/wikipedia/commons/9/99/Chopin_-_Nocturne_No._18_in_E_major%2C_Op._62_No._2_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 19 in E minor, Op. 72 No. 1"
+composer = "Frédéric Chopin"
+track = 19
+catalogue = "Op. 72 No. 1"
+ms = 272656
+file = "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chopin_-_Nocturne_No._19_in_E_minor%2C_Op._72_No._1_%28Luke_Faulkner%29.flac"
+
+[[track.performer]]
+name = "Luke Faulkner"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 20 in C-sharp minor, B. 49"
+composer = "Frédéric Chopin"
+track = 20
+catalogue = "B. 49"
+ms = 225008
+file = "https://upload.wikimedia.org/wikipedia/commons/f/fc/Chopin_-_Nocturne_No._20_in_C-sharp_minor%2C_B._49_%28Frank_Levy%29.flac"
+
+[[track.performer]]
+name = "Frank Lévy"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne No. 21 in C minor, B. 108"
+composer = "Frédéric Chopin"
+track = 21
+catalogue = "B. 108"
+ms = 193063
+file = "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chopin_-_Nocturne_No._21_in_C_minor%2C_B._108_%28Diana_Hughes%29.flac"
+
+[[track.performer]]
+name = "Diana Hughes"
+role = "soloist"
+instrument = "Piano"
