@@ -1,0 +1,16 @@
+name = "Nocturnes"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nocturne_-_op._9_n%C2%B0_2_-_mi_b%C3%A9mol_majeur_-_piano_-_par_Fr._Chopin_-_btv1b9068992s_%2805_of_14%29.jpg/960px-Nocturne_-_op._9_n%C2%B0_2_-_mi_b%C3%A9mol_majeur_-_piano_-_par_Fr._Chopin_-_btv1b9068992s_%2805_of_14%29.jpg"
+year = 2014
+
+[[performer]]
+name = "Frank Lévy"
+role = "soloist"
+instrument = "Piano"
+
+[[track]]
+title = "Nocturne in E-flat major, Op. 9 No. 2"
+composer = "Frédéric Chopin"
+track = 2
+catalogue = "Op. 9 No. 2"
+ms = 271469
+file = "https://upload.wikimedia.org/wikipedia/commons/8/89/Chopin_-_Nocturne_No._2_in_E-flat_major%2C_Op._9_No._2_%28Frank_Levy%29.flac"
