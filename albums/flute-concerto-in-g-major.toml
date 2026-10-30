@@ -1,0 +1,39 @@
+name = "Flute Concerto in G Major"
+art = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Carl_Philipp_Emanuel_Bach.jpg/960px-Carl_Philipp_Emanuel_Bach.jpg"
+year = 2008
+
+[[performer]]
+name = "Advent Chamber Orchestra"
+role = "orchestra"
+
+[[performer]]
+name = "Constance Schoepflin"
+role = "soloist"
+instrument = "Flute"
+
+[[track]]
+title = "I. Allegro"
+composer = "Carl Philipp Emanuel Bach"
+track = 1
+catalogue = "Wq 169"
+licence = "CC BY-SA 2.0"
+ms = 759609
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3e/Carl_Philipp_Emanuel_Bach-_Flute_Concerto_Gmaj_-_1._Allegro.ogg/Carl_Philipp_Emanuel_Bach-_Flute_Concerto_Gmaj_-_1._Allegro.ogg.mp3"
+
+[[track]]
+title = "II. Largo"
+composer = "Carl Philipp Emanuel Bach"
+track = 2
+catalogue = "Wq 169"
+licence = "CC BY-SA 2.0"
+ms = 477777
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/Carl_Philipp_Emanuel_Bach-_Flute_Concerto_Gmaj_-_2._Largo.ogg/Carl_Philipp_Emanuel_Bach-_Flute_Concerto_Gmaj_-_2._Largo.ogg.mp3"
+
+[[track]]
+title = "III. Presto"
+composer = "Carl Philipp Emanuel Bach"
+track = 3
+catalogue = "Wq 169"
+licence = "CC BY-SA 2.0"
+ms = 367093
+file = "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/Carl_Philipp_Emanuel_Bach-_Flute_Concerto_Gmaj_-_3._Presto.ogg/Carl_Philipp_Emanuel_Bach-_Flute_Concerto_Gmaj_-_3._Presto.ogg.mp3"
