@@ -1,0 +1,43 @@
+name = "Orchestral Suite No. 2"
+art = "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bach_suite_2.JPG"
+year = 1929
+
+[[performer]]
+name = "Chicago Symphony Orchestra"
+role = "orchestra"
+
+[[performer]]
+name = "Frederick Stock"
+role = "conductor"
+
+[[track]]
+title = "I. Ouverture (beginning)"
+composer = "Johann Sebastian Bach"
+track = 1
+catalogue = "BWV 1067"
+ms = 235915
+file = "https://upload.wikimedia.org/wikipedia/commons/2/25/PDP-CH_-_Chicago_Symphony_Orchestra%2C_Frederick_Stock_-_Suite_No._2_in_B_minor%2C_BWV_1067%2C_Overture%2C_1st_Record_-_Bach_-_Hmv-d1673-6-0652.flac"
+
+[[track]]
+title = "I. Ouverture (conclusion)"
+composer = "Johann Sebastian Bach"
+track = 2
+catalogue = "BWV 1067"
+ms = 217536
+file = "https://upload.wikimedia.org/wikipedia/commons/8/8c/PDP-CH_-_Chicago_Symphony_Orchestra%2C_Frederick_Stock_-_Suite_No._2_in_B_minor%2C_BWV_1067%2C_Overture%2C_Conclusion_-_Bach_-_Hmv-d1673-6-0653.flac"
+
+[[track]]
+title = "II. Rondeau – III. Sarabande – IV. Bourrée"
+composer = "Johann Sebastian Bach"
+track = 3
+catalogue = "BWV 1067"
+ms = 272498
+file = "https://upload.wikimedia.org/wikipedia/commons/f/f4/PDP-CH_-_Chicago_Symphony_Orchestra%2C_Frederick_Stock_-_Orchestral_Suite_No._2_in_B_minor%2C_BWV_1067%2C_Rondeau%2C_Sarabande%2C_Bourree_-_Bach_-_Hmv-d1674-6-0654.flac"
+
+[[track]]
+title = "V. Polonaise and Double – VI. Menuet – VII. Badinerie"
+composer = "Johann Sebastian Bach"
+track = 4
+catalogue = "BWV 1067"
+ms = 268458
+file = "https://upload.wikimedia.org/wikipedia/commons/c/c9/PDP-CH_-_Chicago_Symphony_Orchestra%2C_Frederick_Stock_-_Orchestral_Suite_No._2_in_B_minor%2C_BWV_1067%2C_Polonaise_and_Double%2C_Minuet%2C_Badinerie_-_Bach_-_Hmv-d1674-6-0687.flac"

@@ -1,0 +1,4 @@
+name = "Chicago Symphony Orchestra"
+kinds = ["orchestra"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/1f/07/e5/1f07e54e-8c3b-97e4-3c5b-e01c8aeb9c0f/cd8f8738-b8e7-45dc-8f49-de2a7ef971dc_ami-identity-605c780ad4d2813a475a6450a95e4a29-2024-05-07T14-08-51.332Z_cropped.png/1200x1200bb.jpg"
+description = "Orchestra founded in Chicago in 1891 by Theodore Thomas, resident at Orchestra Hall since 1904, and one of the first American orchestras to make records."

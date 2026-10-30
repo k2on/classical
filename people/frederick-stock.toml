@@ -1,0 +1,7 @@
+name = "Frederick Stock"
+sort_name = "Stock, Frederick"
+born = 1872
+died = 1942
+kinds = ["conductor"]
+art = "https://cdn-images.dzcdn.net/images/artist/7c7b5db78347f82e134678f6e476dec0/1000x1000-000000-80-0-0.jpg"
+description = "German-born conductor who came to Chicago as a viola player in 1895 and led the Chicago Symphony Orchestra from 1905 until his death, thirty-seven years in all."
