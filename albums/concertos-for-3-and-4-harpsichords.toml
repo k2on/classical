@@ -1,0 +1,54 @@
+name = "Concertos for 3 and 4 Harpsichords"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/13/7a/ad137a85-f627-3c95-93b9-d38178a07faa/00028940004124.rgb.jpg/1200x1200bb.jpg"
+year = 1981
+
+[[performer]]
+name = "Trevor Pinnock"
+role = "soloist"
+instrument = "Harpsichord"
+
+[[performer]]
+name = "Kenneth Gilbert"
+role = "soloist"
+instrument = "Harpsichord"
+
+[[performer]]
+name = "Lars Ulrik Mortensen"
+role = "soloist"
+instrument = "Harpsichord"
+
+[[performer]]
+name = "Nicholas Kraemer"
+role = "soloist"
+instrument = "Harpsichord"
+
+[[performer]]
+name = "The English Concert"
+role = "orchestra"
+
+[[track]]
+title = "Concerto for 4 Harpsichords in A minor, BWV 1065"
+composer = "Johann Sebastian Bach"
+track = 1
+catalogue = "BWV 1065"
+licence = "© 1981 Deutsche Grammophon"
+ms = 577260
+file = "https://archive.org/download/bach-j.s.-concerto-for-3-harpsichords-strings-and-continuo-no.-2-in-c-bwv-1064-20210102/Concerto%20for%204%20Harpsichords%2C%20Strings%20and%20Continuo%20in%20A%20minor%2C%20BWV%201065.mp3"
+
+[[track]]
+title = "Concerto for 3 Harpsichords No. 2 in C major, BWV 1064"
+composer = "Johann Sebastian Bach"
+track = 2
+catalogue = "BWV 1064"
+licence = "© 1981 Deutsche Grammophon"
+ms = 991200
+file = "https://archive.org/download/bach-j.s.-concerto-for-3-harpsichords-strings-and-continuo-no.-2-in-c-bwv-1064-20210102/Concerto%20for%203%20Harpsichords%2C%20Strings%20and%20Continuo%20No.2%20in%20C%2C%20BWV%201064.mp3"
+
+[[track]]
+title = "Concerto for 3 Harpsichords No. 1 in D minor, BWV 1063"
+composer = "Johann Sebastian Bach"
+track = 3
+catalogue = "BWV 1063"
+licence = "© 1981 Deutsche Grammophon"
+ms = 837500
+file = "https://archive.org/download/bach-j.s.-concerto-for-3-harpsichords-strings-and-continuo-no.-2-in-c-bwv-1064-20210102/Concerto%20for%203%20Harpsichords%2C%20Strings%20and%20Continuo%20No.1%20in%20D%20minor%2C%20BWV%201063.mp3"
