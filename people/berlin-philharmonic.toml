@@ -1,0 +1,4 @@
+name = "Berlin Philharmonic"
+kinds = ["orchestra"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d7/45/eb/d745ebaa-eeb3-4dc7-3f24-66b92ef0781b/mza_3938181633123732777.png/1200x1200bb.jpg"
+description = "Berlin orchestra founded by its players in 1882, who still elect its chief conductor, and resident at the Philharmonie since 1963."

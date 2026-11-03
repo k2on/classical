@@ -1,0 +1,21 @@
+name = "Das Rheingold"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/fb/86/bafb8609-2d56-6153-0771-251bc2793e7f/00028945778129.rgb.jpg/1200x1200bb.jpg"
+year = 1968
+
+[[performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Prelude"
+composer = "Richard Wagner"
+part = "Das Rheingold, Scene 1"
+track = 1
+catalogue = "WWV 86A"
+licence = "© 1968 Deutsche Grammophon"
+ms = 263310
+file = "https://archive.org/download/rheing-open-1-karajan/rheing%20open1%20%28karajan%29.mp3"

@@ -1,0 +1,20 @@
+name = "Die Walküre"
+year = 1989
+
+[[performer]]
+name = "Bavarian State Orchestra"
+role = "orchestra"
+
+[[performer]]
+name = "Wolfgang Sawallisch"
+role = "conductor"
+
+[[track]]
+title = "Magic Fire Music"
+composer = "Richard Wagner"
+part = "Die Walküre, Act III"
+track = 1
+catalogue = "WWV 86B"
+licence = "© 1989 EMI"
+ms = 236560
+file = "https://archive.org/download/magic-fire-music-sawallisch/magic%20fire%20music%20%28sawallisch%29.mp3"

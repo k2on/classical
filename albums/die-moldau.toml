@@ -1,0 +1,19 @@
+name = "Die Moldau"
+year = 1961
+
+[[performer]]
+name = "London Philharmonic Orchestra"
+role = "orchestra"
+
+[[performer]]
+name = "Gunnar Staern"
+role = "conductor"
+
+[[track]]
+title = "Vltava"
+composer = "Bedřich Smetana"
+part = "Má vlast"
+track = 1
+catalogue = "JB 1:112/2"
+ms = 813330
+file = "https://archive.org/download/Friedrich_Smetana_-_Die_Moldau/Smetana-Moldau.mp3"

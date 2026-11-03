@@ -1,0 +1,7 @@
+name = "Herbert von Karajan"
+sort_name = "Karajan, Herbert von"
+born = 1908
+died = 1989
+kinds = ["conductor"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/2e/50/05/2e50059e-8013-f9d7-bc76-5743d5891e6c/pr_source.png/1200x1200bb.jpg"
+description = "Austrian conductor, principal conductor of the Berlin Philharmonic from 1955 until shortly before his death, and the best-selling classical recording artist of his time. He recorded Wagner's Ring for Deutsche Grammophon between 1966 and 1970."
