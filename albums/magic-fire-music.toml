@@ -1,0 +1,29 @@
+name = "Magic Fire Music"
+art = "https://archive.org/download/78_the-valkyrie-magic-fire-music-1st-record_london-symphony-orchestra-wagner-alber_gbia7026716a/78_the-valkyrie-magic-fire-music-1st-record_london-symphony-orchestra-wagner-alber_gbia7026716a_itemimage.jpg"
+year = 1930
+
+[[performer]]
+name = "London Symphony Orchestra"
+role = "orchestra"
+
+[[performer]]
+name = "Albert Coates"
+role = "conductor"
+
+[[track]]
+title = "Magic Fire Music (part 1)"
+composer = "Richard Wagner"
+part = "Die Walküre, Act III"
+track = 1
+catalogue = "WWV 86B"
+ms = 225820
+file = "https://archive.org/download/78_the-valkyrie-magic-fire-music-1st-record_london-symphony-orchestra-wagner-alber_gbia7026716a/%22THE%20VALKYRIE%22-MAGIC%20FIRE%20MUSI%20-%20LONDON%20SYMPHONY%20ORCHESTRA.flac"
+
+[[track]]
+title = "Magic Fire Music (part 2)"
+composer = "Richard Wagner"
+part = "Die Walküre, Act III"
+track = 2
+catalogue = "WWV 86B"
+ms = 207330
+file = "https://archive.org/download/78_the-valkyrie-magic-fire-music-2nd-record_london-symphony-orchestra-wagner-alber_gbia7026716b/%22THE%20VALKYRIE%22-MAGIC%20FIRE%20MUSI%20-%20LONDON%20SYMPHONY%20ORCHESTRA.flac"

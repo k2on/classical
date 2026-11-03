@@ -1,0 +1,38 @@
+name = "Vltava"
+art = "https://archive.org/download/78_moldau-vltava-part-1_czech-philharmonic-orchestra-smetana-rafael-kubelik_gbia7002555a/78_moldau-vltava-part-1_czech-philharmonic-orchestra-smetana-rafael-kubelik_gbia7002555a_itemimage.jpg"
+year = 1938
+
+[[performer]]
+name = "Czech Philharmonic"
+role = "orchestra"
+
+[[performer]]
+name = "Rafael Kubelík"
+role = "conductor"
+
+[[track]]
+title = "Vltava (part 1)"
+composer = "Bedřich Smetana"
+part = "Má vlast"
+track = 1
+catalogue = "JB 1:112/2"
+ms = 231140
+file = "https://archive.org/download/78_moldau-vltava-part-1_czech-philharmonic-orchestra-smetana-rafael-kubelik_gbia7002555a/MOLDAU%20%28VLTAVA%29-PART%201%20-%20CZECH%20PHILHARMONIC%20ORCHESTRA.flac"
+
+[[track]]
+title = "Vltava (part 2)"
+composer = "Bedřich Smetana"
+part = "Má vlast"
+track = 2
+catalogue = "JB 1:112/2"
+ms = 263550
+file = "https://archive.org/download/78_moldau-vltava-part-2_czech-philharmonic-orchestra-smetana-rafael-kubelik_gbia7002555b/MOLDAU%20%28VLTAVA%29-PART%202%20-%20CZECH%20PHILHARMONIC%20ORCHESTRA.flac"
+
+[[track]]
+title = "Vltava (conclusion)"
+composer = "Bedřich Smetana"
+part = "Má vlast"
+track = 3
+catalogue = "JB 1:112/2"
+ms = 243210
+file = "https://archive.org/download/78_moldau-vltava-conclusion_czech-philharmonic-orchestra-smetana-rafael-kubelik_gbia7002654b/MOLDAU%20%28VLTAVA%29-CONCLUSION%20-%20CZECH%20PHILHARMONIC%20ORCHESTRA.flac"

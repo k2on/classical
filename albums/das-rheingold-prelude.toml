@@ -1,0 +1,15 @@
+name = "Das Rheingold: Prelude"
+art = "https://archive.org/download/9163brheingoldr13954459/9163-B.jpg"
+
+[[performer]]
+name = "Albert Coates"
+role = "conductor"
+
+[[track]]
+title = "Prelude"
+composer = "Richard Wagner"
+part = "Das Rheingold, Scene 1"
+track = 1
+catalogue = "WWV 86A"
+ms = 230670
+file = "https://archive.org/download/9163brheingoldr13954459/9163-B%20-%20Rheingold%20%5Br13954459%5D.flac"

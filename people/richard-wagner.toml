@@ -1,0 +1,7 @@
+name = "Richard Wagner"
+sort_name = "Wagner, Richard"
+born = 1813
+died = 1883
+kinds = ["composer"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/2a/f8/6c/2af86c4c-adfe-f085-407c-17a458e6a0c6/mza_12508514320801146050.png/1200x1200bb.jpg"
+description = "German composer of operas he called music dramas, writing his own librettos. His four-evening Der Ring des Nibelungen, built from recurring leitmotifs, took him a quarter of a century, and he had a festival theatre built at Bayreuth to stage it."

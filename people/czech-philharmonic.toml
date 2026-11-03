@@ -1,0 +1,4 @@
+name = "Czech Philharmonic"
+kinds = ["orchestra"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/ba/a0/27/baa02760-dbf7-40fe-7861-35e290addfe7/mza_6171936300143220374.png/1200x1200bb.jpg"
+description = "Prague orchestra that gave its first concert under its own name in 1896, with Dvořák conducting, and has played at the Rudolfinum since."
