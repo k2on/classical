@@ -1,0 +1,56 @@
+name = "Mozart: Requiem"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/44/e1/a3/44e1a318-6bd1-59b0-55b6-74699ef15b9a/00028941355324.rgb.jpg/1200x1200bb.jpg"
+year = 1971
+
+[[performer]]
+name = "Edith Mathis"
+role = "soloist"
+instrument = "Soprano"
+
+[[performer]]
+name = "Julia Hamari"
+role = "soloist"
+instrument = "Alto"
+
+[[performer]]
+name = "Wiesław Ochman"
+role = "soloist"
+instrument = "Tenor"
+
+[[performer]]
+name = "Karl Ridderbusch"
+role = "soloist"
+instrument = "Bass"
+
+[[performer]]
+name = "Vienna State Opera Chorus"
+role = "ensemble"
+instrument = "Choir"
+
+[[performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[performer]]
+name = "Karl Böhm"
+role = "conductor"
+
+[[track]]
+title = "I. Introitus – II. Kyrie – III. Sequentia"
+composer = "Wolfgang Amadeus Mozart"
+part = "Side 1"
+track = 1
+catalogue = "K. 626"
+licence = "© 1971 Deutsche Grammophon"
+ms = 2081600
+file = "https://archive.org/download/lp_requiem_volfgang-amadeus-mozart-karl-bhm-viener-ph/disc1/lp_requiem_volfgang-amadeus-mozart-karl-bhm-viener-ph_disc1side1.flac"
+
+[[track]]
+title = "IV. Offertorium – V. Sanctus – VI. Benedictus – VII. Agnus Dei – VIII. Communio"
+composer = "Wolfgang Amadeus Mozart"
+part = "Side 2"
+track = 2
+catalogue = "K. 626"
+licence = "© 1971 Deutsche Grammophon"
+ms = 1938200
+file = "https://archive.org/download/lp_requiem_volfgang-amadeus-mozart-karl-bhm-viener-ph/disc1/lp_requiem_volfgang-amadeus-mozart-karl-bhm-viener-ph_disc1side2.flac"
