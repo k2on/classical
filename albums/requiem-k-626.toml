@@ -1,0 +1,314 @@
+name = "Requiem, K. 626"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/8d/3a/ee8d3a74-17bd-7b53-efc4-73a228cd53fb/00028942916029.rgb.jpg/1200x1200bb.jpg"
+year = 1962
+
+[[performer]]
+name = "Wiener Singverein"
+role = "ensemble"
+instrument = "Choir"
+
+[[performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Requiem aeternam"
+composer = "Wolfgang Amadeus Mozart"
+part = "I. Introitus"
+track = 1
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 360000
+file = "https://imslp.eu/files/imglnks/euimg/d/df/IMSLP581257-PMLP02751-Mozart_-_Requiem_-_01_%28Karajan%2C_1962%29.flac"
+
+[[track.performer]]
+name = "Wilma Lipp"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Wiener Singverein"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Kyrie eleison"
+composer = "Wolfgang Amadeus Mozart"
+part = "II. Kyrie"
+track = 2
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 170000
+file = "https://imslp.eu/files/imglnks/euimg/7/75/IMSLP581258-PMLP02751-Mozart_-_Requiem_-_02_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Dies irae"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 3
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 118600
+file = "https://imslp.eu/files/imglnks/euimg/4/45/IMSLP581259-PMLP02751-Mozart_-_Requiem_-_03_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Tuba mirum"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 4
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 261400
+file = "https://imslp.eu/files/imglnks/euimg/b/b2/IMSLP581260-PMLP02751-Mozart_-_Requiem_-_04_%28Karajan%2C_1962%29.flac"
+
+[[track.performer]]
+name = "Wilma Lipp"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Hilde Rössel-Majdan"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Walter Berry"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Rex tremendae"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 5
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 149800
+file = "https://imslp.eu/files/imglnks/euimg/c/cb/IMSLP581261-PMLP02751-Mozart_-_Requiem_-_05_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Recordare"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 6
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 327200
+file = "https://imslp.eu/files/imglnks/euimg/3/37/IMSLP581262-PMLP02751-Mozart_-_Requiem_-_06_%28Karajan%2C_1962%29.flac"
+
+[[track.performer]]
+name = "Wilma Lipp"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Hilde Rössel-Majdan"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Walter Berry"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Confutatis"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 7
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 158600
+file = "https://imslp.eu/files/imglnks/euimg/9/95/IMSLP581263-PMLP02751-Mozart_-_Requiem_-_07_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Lacrimosa"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 8
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 208800
+file = "https://imslp.eu/files/imglnks/euimg/c/c4/IMSLP581264-PMLP02751-Mozart_-_Requiem_-_08_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Domine Jesu"
+composer = "Wolfgang Amadeus Mozart"
+part = "IV. Offertorium"
+track = 9
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 256300
+file = "https://imslp.eu/files/imglnks/euimg/f/ff/IMSLP581265-PMLP02751-Mozart_-_Requiem_-_09_%28Karajan%2C_1962%29.flac"
+
+[[track.performer]]
+name = "Wilma Lipp"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Hilde Rössel-Majdan"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Walter Berry"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Wiener Singverein"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Hostias"
+composer = "Wolfgang Amadeus Mozart"
+part = "IV. Offertorium"
+track = 10
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 309700
+file = "https://imslp.eu/files/imglnks/euimg/1/17/IMSLP581266-PMLP02751-Mozart_-_Requiem_-_10_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Sanctus"
+composer = "Wolfgang Amadeus Mozart"
+part = "V. Sanctus"
+track = 11
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 107000
+file = "https://imslp.eu/files/imglnks/euimg/4/4c/IMSLP581267-PMLP02751-Mozart_-_Requiem_-_11_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Benedictus"
+composer = "Wolfgang Amadeus Mozart"
+part = "VI. Benedictus"
+track = 12
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 313500
+file = "https://imslp.eu/files/imglnks/euimg/4/4f/IMSLP581268-PMLP02751-Mozart_-_Requiem_-_12_%28Karajan%2C_1962%29.flac"
+
+[[track.performer]]
+name = "Wilma Lipp"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Hilde Rössel-Majdan"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Walter Berry"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Wiener Singverein"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Herbert von Karajan"
+role = "conductor"
+
+[[track]]
+title = "Agnus Dei"
+composer = "Wolfgang Amadeus Mozart"
+part = "VII. Agnus Dei"
+track = 13
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 235000
+file = "https://imslp.eu/files/imglnks/euimg/b/bb/IMSLP581269-PMLP02751-Mozart_-_Requiem_-_13_%28Karajan%2C_1962%29.flac"
+
+[[track]]
+title = "Lux aeterna"
+composer = "Wolfgang Amadeus Mozart"
+part = "VIII. Communio"
+track = 14
+catalogue = "K. 626"
+licence = "© 1962 Deutsche Grammophon"
+ms = 389900
+file = "https://imslp.eu/files/imglnks/euimg/0/09/IMSLP581270-PMLP02751-Mozart_-_Requiem_-_14_%28Karajan%2C_1962%29.flac"
+
+[[track.performer]]
+name = "Wilma Lipp"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Wiener Singverein"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Berlin Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Herbert von Karajan"
+role = "conductor"
