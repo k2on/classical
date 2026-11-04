@@ -1,0 +1,300 @@
+name = "Requiem"
+art = "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a2/81/54/a2815477-df94-f8d3-c1de-3141b610d5f2/4011790430126.jpg/1200x1200bb.jpg"
+year = 1956
+
+[[performer]]
+name = "Vienna State Opera Chorus"
+role = "ensemble"
+instrument = "Choir"
+
+[[performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[performer]]
+name = "Bruno Walter"
+role = "conductor"
+
+[[track]]
+title = "Requiem aeternam"
+composer = "Wolfgang Amadeus Mozart"
+part = "I. Introitus"
+track = 1
+catalogue = "K. 626"
+ms = 338380
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2001.%20Requiem%20aeternam.mp3"
+
+[[track.performer]]
+name = "Lisa della Casa"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Vienna State Opera Chorus"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Bruno Walter"
+role = "conductor"
+
+[[track]]
+title = "Kyrie eleison"
+composer = "Wolfgang Amadeus Mozart"
+part = "II. Kyrie"
+track = 2
+catalogue = "K. 626"
+ms = 185410
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2002.%20Kyrie%20eleison.mp3"
+
+[[track]]
+title = "Dies irae"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 3
+catalogue = "K. 626"
+ms = 112990
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2003.%20Dies%20irae.mp3"
+
+[[track]]
+title = "Tuba mirum"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 4
+catalogue = "K. 626"
+ms = 244370
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2004.%20Tuba%20mirum.mp3"
+
+[[track.performer]]
+name = "Lisa della Casa"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Ira Malaniuk"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Cesare Siepi"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Bruno Walter"
+role = "conductor"
+
+[[track]]
+title = "Rex tremendae"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 5
+catalogue = "K. 626"
+ms = 143410
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2005.%20Rex%20tremendae.mp3"
+
+[[track]]
+title = "Recordare"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 6
+catalogue = "K. 626"
+ms = 373030
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2006.%20Recordare.mp3"
+
+[[track.performer]]
+name = "Lisa della Casa"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Ira Malaniuk"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Cesare Siepi"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Bruno Walter"
+role = "conductor"
+
+[[track]]
+title = "Confutatis"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 7
+catalogue = "K. 626"
+ms = 182860
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2007.%20Confutatis.mp3"
+
+[[track]]
+title = "Lacrimosa"
+composer = "Wolfgang Amadeus Mozart"
+part = "III. Sequentia"
+track = 8
+catalogue = "K. 626"
+ms = 205170
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2008.%20Lacrimosa.mp3"
+
+[[track]]
+title = "Domine Jesu"
+composer = "Wolfgang Amadeus Mozart"
+part = "IV. Offertorium"
+track = 9
+catalogue = "K. 626"
+ms = 283590
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2009.%20Domine%20Jesu.mp3"
+
+[[track.performer]]
+name = "Lisa della Casa"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Ira Malaniuk"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Cesare Siepi"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Vienna State Opera Chorus"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Bruno Walter"
+role = "conductor"
+
+[[track]]
+title = "Hostias"
+composer = "Wolfgang Amadeus Mozart"
+part = "IV. Offertorium"
+track = 10
+catalogue = "K. 626"
+ms = 343070
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2010.%20Hostias.mp3"
+
+[[track]]
+title = "Sanctus"
+composer = "Wolfgang Amadeus Mozart"
+part = "V. Sanctus"
+track = 11
+catalogue = "K. 626"
+ms = 109370
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2011.%20Sanctus.mp3"
+
+[[track]]
+title = "Benedictus"
+composer = "Wolfgang Amadeus Mozart"
+part = "VI. Benedictus"
+track = 12
+catalogue = "K. 626"
+ms = 323220
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2012.%20Benedictus.mp3"
+
+[[track.performer]]
+name = "Lisa della Casa"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Ira Malaniuk"
+role = "soloist"
+instrument = "Alto"
+
+[[track.performer]]
+name = "Anton Dermota"
+role = "soloist"
+instrument = "Tenor"
+
+[[track.performer]]
+name = "Cesare Siepi"
+role = "soloist"
+instrument = "Bass"
+
+[[track.performer]]
+name = "Vienna State Opera Chorus"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Bruno Walter"
+role = "conductor"
+
+[[track]]
+title = "Agnus Dei"
+composer = "Wolfgang Amadeus Mozart"
+part = "VII. Agnus Dei"
+track = 13
+catalogue = "K. 626"
+ms = 222470
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2013.%20Agnus%20Dei.mp3"
+
+[[track]]
+title = "Lux aeterna"
+composer = "Wolfgang Amadeus Mozart"
+part = "VIII. Communio"
+track = 14
+catalogue = "K. 626"
+ms = 423760
+file = "https://archive.org/download/MozartRequiemBruno/W.%20A.%20Mozart%20-%20Requiem%2C%20K.%20626%20%28Bruno%20Walter%2C%20Wiener%20Philharmoniker%2C%20Wiener%20Staatsopernchor%2C%201956%29%20-%2014.%20Communio%20Lux%20aeterna.mp3"
+
+[[track.performer]]
+name = "Lisa della Casa"
+role = "soloist"
+instrument = "Soprano"
+
+[[track.performer]]
+name = "Vienna State Opera Chorus"
+role = "ensemble"
+instrument = "Choir"
+
+[[track.performer]]
+name = "Vienna Philharmonic"
+role = "orchestra"
+
+[[track.performer]]
+name = "Bruno Walter"
+role = "conductor"

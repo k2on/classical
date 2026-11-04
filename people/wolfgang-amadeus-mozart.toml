@@ -1,0 +1,7 @@
+name = "Wolfgang Amadeus Mozart"
+sort_name = "Mozart, Wolfgang Amadeus"
+born = 1756
+died = 1791
+kinds = ["composer"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/12/58/7d/12587dec-089f-049e-f6d0-c00f9597f4ab/mza_2526353882289973203.png/1200x1200bb.jpg"
+description = "Austrian composer from Salzburg, toured across Europe as a child prodigy and, from 1781, worked freelance in Vienna. In a life of thirty-five years he wrote more than 600 works, among them over forty symphonies, twenty-seven piano concertos and the operas Le nozze di Figaro, Don Giovanni and Die Zauberflöte."

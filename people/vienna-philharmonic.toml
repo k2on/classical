@@ -1,0 +1,4 @@
+name = "Vienna Philharmonic"
+kinds = ["orchestra"]
+art = "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/2d/88/c6/2d88c6ce-4db9-58da-7204-67b906e28b40/mza_15247468168465693774.png/1200x1200bb.jpg"
+description = "Vienna orchestra founded by Otto Nicolai in 1842, its players drawn from the orchestra of the Vienna State Opera; it governs itself, has no chief conductor, and plays at the Musikverein."
